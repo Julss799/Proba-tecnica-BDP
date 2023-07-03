@@ -1,0 +1,2815 @@
+[
+  {
+    "peliculas": [
+      {
+        "id": 1,
+        "name": "Expediente Warren, The conjuring",
+        "releaseDate": "05/05/2020",
+        "poster": "https://localhost:7066/imagenes/8f869596-f300-4524-9233-50dbc3ac5f48.jpg",
+        "gendre": {
+          "id": 1,
+          "name": "Terror",
+          "description": "Dan mucho miedo"
+        },
+        "characters": [
+          {
+            "id": 1,
+            "name": "Ed Warren",
+            "actor": {
+              "id": 1,
+              "name": "Patrick Wilson",
+              "description": "Patrick Joseph Wilson es un actor y cantante estadounidense.​ Desde 1996 ha participado en varios musicales y ha protagonizado varias obras teatrales en el circuito de Broadway.​​Es dos veces nominado al premio Tony por sus papeles en The Full Monty y Oklahoma!.",
+              "birthDate": "03/10/73",
+              "foto": "http://albertbdp.somee.com/imagenes/c3a38c43-30d8-45a3-8daa-3f379031ac10.jpg"
+            }
+          },
+          {
+            "id": 2,
+            "name": "Lorraine Warren",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          },
+          {
+            "id": 3,
+            "name": "Carolyn Perron",
+            "actor": {
+              "id": 3,
+              "name": "Lili Taylor",
+              "description": "Lili Anne Taylor es una actriz estadounidense que ha trabajado principalmente en películas independientes. Ha ganado un premio del Sindicato de Actores por su actuación en la serie Six Feet Under, y ha sido nominada en tres ocasiones al premio Primetime Emmy.",
+              "birthDate": "20/02/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/323ce051-a0b4-409e-9df1-177d9e42ccad.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Vengadores: Endgame",
+        "releaseDate": "25/04/2019",
+        "poster": "http://albertbdp.somee.com/imagenes/e82dfebe-e58b-486b-88e2-5b85f8512b90.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 17,
+            "name": "Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 18,
+            "name": "Captain America",
+            "actor": {
+              "id": 8,
+              "name": "Chris Evans",
+              "description": "Chris Evans es un actor estadounidense reconocido por interpretar a Captain America en el Universo Cinematográfico de Marvel. Su presencia en pantalla y su compromiso con el personaje lo convirtieron en el líder emblemático de los Vengadores, dejando una huella duradera en el género de superhéroes.",
+              "birthDate": "13/06/1981",
+              "foto": "http://albertbdp.somee.com/imagenes/2240861f-148d-4e7b-87f7-0085e094f0aa.jpg"
+            }
+          },
+          {
+            "id": 19,
+            "name": "Thor",
+            "actor": {
+              "id": 9,
+              "name": "Chris Hemsworth",
+              "description": "Chris Hemsworth es un actor australiano famoso por su interpretación del dios del trueno, Thor, en el Universo Cinematográfico de Marvel. Su carisma y su impresionante físico le permitieron capturar la esencia del personaje y ganarse el corazón de los fans en todo el mundo.",
+              "birthDate": "11/08/1983",
+              "foto": "http://albertbdp.somee.com/imagenes/dc9200fa-68f3-4e16-9adf-3327b5230e05.jpg"
+            }
+          },
+          {
+            "id": 20,
+            "name": "Black Widow",
+            "actor": {
+              "id": 10,
+              "name": "Scarlett Johansson",
+              "description": "Scarlett Johansson es una actriz estadounidense conocida por su papel como Black Widow en el Universo Cinematográfico de Marvel. Con su combinación de elegancia, valentía y habilidades de combate, Johansson ha dejado una impresión duradera como una de las heroínas más queridas y poderosas del cine de superhéroes.",
+              "birthDate": "22/11/1984",
+              "foto": "http://albertbdp.somee.com/imagenes/4052c5fa-4a96-445a-85f2-c7220c713b22.jpg"
+            }
+          },
+          {
+            "id": 21,
+            "name": "Hulk",
+            "actor": {
+              "id": 11,
+              "name": "Mark Ruffalo",
+              "description": "Mark Ruffalo es un actor estadounidense reconocido por su papel como Hulk en el Universo Cinematográfico de Marvel. Su actuación aporta profundidad emocional al personaje, equilibrando la fuerza descomunal de Hulk con la humanidad de Bruce Banner, lo que lo convierte en una pieza clave del equipo de los Vengadores.",
+              "birthDate": "22/11/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/4c1010f0-2155-46a7-87c3-ce1d8dc433b7.jpg"
+            }
+          },
+          {
+            "id": 22,
+            "name": "Hawkeye",
+            "actor": {
+              "id": 12,
+              "name": "Jeremy Renner",
+              "description": "Jeremy Renner es un actor estadounidense conocido por interpretar a Hawkeye en el Universo Cinematográfico de Marvel. Renner ha sabido capturar la destreza y la precisión del arquero experto, aportando una presencia única al equipo de los Vengadores.",
+              "birthDate": "07/01/1971",
+              "foto": "http://albertbdp.somee.com/imagenes/e1901b1f-6707-45c0-8011-d39ef1681e4a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Vengadores",
+        "releaseDate": "25/04/2016",
+        "poster": "http://albertbdp.somee.com/imagenes/31cf4c88-fff4-4089-815e-0f8eaaa1ded8.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 23,
+            "name": "Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 24,
+            "name": "Captain America",
+            "actor": {
+              "id": 8,
+              "name": "Chris Evans",
+              "description": "Chris Evans es un actor estadounidense reconocido por interpretar a Captain America en el Universo Cinematográfico de Marvel. Su presencia en pantalla y su compromiso con el personaje lo convirtieron en el líder emblemático de los Vengadores, dejando una huella duradera en el género de superhéroes.",
+              "birthDate": "13/06/1981",
+              "foto": "http://albertbdp.somee.com/imagenes/2240861f-148d-4e7b-87f7-0085e094f0aa.jpg"
+            }
+          },
+          {
+            "id": 25,
+            "name": "Thor",
+            "actor": {
+              "id": 9,
+              "name": "Chris Hemsworth",
+              "description": "Chris Hemsworth es un actor australiano famoso por su interpretación del dios del trueno, Thor, en el Universo Cinematográfico de Marvel. Su carisma y su impresionante físico le permitieron capturar la esencia del personaje y ganarse el corazón de los fans en todo el mundo.",
+              "birthDate": "11/08/1983",
+              "foto": "http://albertbdp.somee.com/imagenes/dc9200fa-68f3-4e16-9adf-3327b5230e05.jpg"
+            }
+          },
+          {
+            "id": 26,
+            "name": "Black Widow",
+            "actor": {
+              "id": 10,
+              "name": "Scarlett Johansson",
+              "description": "Scarlett Johansson es una actriz estadounidense conocida por su papel como Black Widow en el Universo Cinematográfico de Marvel. Con su combinación de elegancia, valentía y habilidades de combate, Johansson ha dejado una impresión duradera como una de las heroínas más queridas y poderosas del cine de superhéroes.",
+              "birthDate": "22/11/1984",
+              "foto": "http://albertbdp.somee.com/imagenes/4052c5fa-4a96-445a-85f2-c7220c713b22.jpg"
+            }
+          },
+          {
+            "id": 27,
+            "name": "Hulk",
+            "actor": {
+              "id": 11,
+              "name": "Mark Ruffalo",
+              "description": "Mark Ruffalo es un actor estadounidense reconocido por su papel como Hulk en el Universo Cinematográfico de Marvel. Su actuación aporta profundidad emocional al personaje, equilibrando la fuerza descomunal de Hulk con la humanidad de Bruce Banner, lo que lo convierte en una pieza clave del equipo de los Vengadores.",
+              "birthDate": "22/11/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/4c1010f0-2155-46a7-87c3-ce1d8dc433b7.jpg"
+            }
+          },
+          {
+            "id": 28,
+            "name": "Hawkeye",
+            "actor": {
+              "id": 12,
+              "name": "Jeremy Renner",
+              "description": "Jeremy Renner es un actor estadounidense conocido por interpretar a Hawkeye en el Universo Cinematográfico de Marvel. Renner ha sabido capturar la destreza y la precisión del arquero experto, aportando una presencia única al equipo de los Vengadores.",
+              "birthDate": "07/01/1971",
+              "foto": "http://albertbdp.somee.com/imagenes/e1901b1f-6707-45c0-8011-d39ef1681e4a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Iron Man",
+        "releaseDate": "02/05/2008",
+        "poster": "http://albertbdp.somee.com/imagenes/80b6b48a-43c8-4dc7-b09a-5199bbe64de0.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 29,
+            "name": "Tony Stark / Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 30,
+            "name": "Pepper Potts",
+            "actor": {
+              "id": 13,
+              "name": "Gwyneth Paltrow",
+              "description": "Gwyneth Paltrow es una aclamada actriz que interpreta a Pepper Potts en la saga de Iron Man. Nacida el 27 de junio de 1972, su talento y elegancia han dado vida a este personaje importante en la vida de Tony Stark.",
+              "birthDate": "27/06/1972",
+              "foto": "http://albertbdp.somee.com/imagenes/69b22aaf-b1ae-46bf-bffc-936e67a3951a.jpg"
+            }
+          },
+          {
+            "id": 31,
+            "name": "James Rhodes / War Machine",
+            "actor": {
+              "id": 14,
+              "name": "Don Cheadle",
+              "description": "Don Cheadle es un versátil actor que encarna a James Rhodes / War Machine en las películas de Iron Man. Nacido el 12 de septiembre de 1964, su actuación aporta fuerza y lealtad a este aliado valiente de Tony Stark.",
+              "birthDate": "12/09/1964",
+              "foto": "http://albertbdp.somee.com/imagenes/65b000ae-ce54-47c4-9bd9-f4424d91c47a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Sherlock Holmes",
+        "releaseDate": "25/12/2009",
+        "poster": "http://albertbdp.somee.com/imagenes/420ed222-7ddd-4498-9d76-d26ae5f9e413.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 32,
+            "name": "Sherlock Holmes",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          }
+        ]
+      }
+    ],
+    "id": 1,
+    "name": "Cinesa Diagonal",
+    "address": "Diagonal 441, Barcelona"
+  },
+  {
+    "peliculas": [
+      {
+        "id": 3,
+        "name": "Up in the Air",
+        "releaseDate": "04/12/2009",
+        "poster": "http://albertbdp.somee.com/imagenes/e7080105-18da-46c0-b9f1-40e245e7ac44.jpg",
+        "gendre": {
+          "id": 2,
+          "name": "Comedia",
+          "description": "Te partirás de risa"
+        },
+        "characters": [
+          {
+            "id": 7,
+            "name": "Ryan Bingham",
+            "actor": {
+              "id": 4,
+              "name": "George Clooney",
+              "description": "George Timothy Clooney es un actor, director, productor y guionista estadounidense. Ha sido galardonado con cuatro Globos de Oro, dos Óscar y un BAFTA. También es conocido por su activismo político, siendo Mensajero de la Paz de Naciones Unidas desde 2008, título al que renunció posteriormente.",
+              "birthDate": "06/05/61",
+              "foto": "http://albertbdp.somee.com/imagenes/aa0540fd-56bc-4a45-8fc5-7aac1523213e.jpg"
+            }
+          },
+          {
+            "id": 8,
+            "name": "Alex Goran",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          },
+          {
+            "id": 9,
+            "name": "Craig Gregory",
+            "actor": {
+              "id": 5,
+              "name": "Jason Bateman",
+              "description": "Jason Kent Bateman es un actor y director estadounidense ganador de un Globo de Oro, un Premio Emmy, y dos Premios del Sindicato de Actores. Después de haber actuado en varias series de comedia durante la década de 1980, Bateman adquirió fama por su trabajo como Michael Bluth en la serie Arrested Development.",
+              "birthDate": "14/01/1969",
+              "foto": "http://albertbdp.somee.com/imagenes/6cad8f6c-e955-4c78-83c6-aa5ec0aae649.jpg"
+            }
+          },
+          {
+            "id": 10,
+            "name": "Bob",
+            "actor": {
+              "id": 6,
+              "name": "J. K. Simmons",
+              "description": "Jonathan Kimble Simmons es un actor estadounidense ganador del Óscar, Globo de Oro, BAFTA, Premio del Sindicato de Actores, entre otros premios.",
+              "birthDate": "09/01/1968",
+              "foto": "http://albertbdp.somee.com/imagenes/4f6f48e0-2ecf-48da-ac0a-fb7ecb5cb441.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Vengadores: Infinity War",
+        "releaseDate": "25/04/2018",
+        "poster": "http://albertbdp.somee.com/imagenes/ac71fc81-5a27-4720-a63d-b0f5d5d95868.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 11,
+            "name": "Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 12,
+            "name": "Captain America",
+            "actor": {
+              "id": 8,
+              "name": "Chris Evans",
+              "description": "Chris Evans es un actor estadounidense reconocido por interpretar a Captain America en el Universo Cinematográfico de Marvel. Su presencia en pantalla y su compromiso con el personaje lo convirtieron en el líder emblemático de los Vengadores, dejando una huella duradera en el género de superhéroes.",
+              "birthDate": "13/06/1981",
+              "foto": "http://albertbdp.somee.com/imagenes/2240861f-148d-4e7b-87f7-0085e094f0aa.jpg"
+            }
+          },
+          {
+            "id": 13,
+            "name": "Thor",
+            "actor": {
+              "id": 9,
+              "name": "Chris Hemsworth",
+              "description": "Chris Hemsworth es un actor australiano famoso por su interpretación del dios del trueno, Thor, en el Universo Cinematográfico de Marvel. Su carisma y su impresionante físico le permitieron capturar la esencia del personaje y ganarse el corazón de los fans en todo el mundo.",
+              "birthDate": "11/08/1983",
+              "foto": "http://albertbdp.somee.com/imagenes/dc9200fa-68f3-4e16-9adf-3327b5230e05.jpg"
+            }
+          },
+          {
+            "id": 14,
+            "name": "Black Widow",
+            "actor": {
+              "id": 10,
+              "name": "Scarlett Johansson",
+              "description": "Scarlett Johansson es una actriz estadounidense conocida por su papel como Black Widow en el Universo Cinematográfico de Marvel. Con su combinación de elegancia, valentía y habilidades de combate, Johansson ha dejado una impresión duradera como una de las heroínas más queridas y poderosas del cine de superhéroes.",
+              "birthDate": "22/11/1984",
+              "foto": "http://albertbdp.somee.com/imagenes/4052c5fa-4a96-445a-85f2-c7220c713b22.jpg"
+            }
+          },
+          {
+            "id": 15,
+            "name": "Hulk",
+            "actor": {
+              "id": 11,
+              "name": "Mark Ruffalo",
+              "description": "Mark Ruffalo es un actor estadounidense reconocido por su papel como Hulk en el Universo Cinematográfico de Marvel. Su actuación aporta profundidad emocional al personaje, equilibrando la fuerza descomunal de Hulk con la humanidad de Bruce Banner, lo que lo convierte en una pieza clave del equipo de los Vengadores.",
+              "birthDate": "22/11/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/4c1010f0-2155-46a7-87c3-ce1d8dc433b7.jpg"
+            }
+          },
+          {
+            "id": 16,
+            "name": "Hawkeye",
+            "actor": {
+              "id": 12,
+              "name": "Jeremy Renner",
+              "description": "Jeremy Renner es un actor estadounidense conocido por interpretar a Hawkeye en el Universo Cinematográfico de Marvel. Renner ha sabido capturar la destreza y la precisión del arquero experto, aportando una presencia única al equipo de los Vengadores.",
+              "birthDate": "07/01/1971",
+              "foto": "http://albertbdp.somee.com/imagenes/e1901b1f-6707-45c0-8011-d39ef1681e4a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Vengadores: Endgame",
+        "releaseDate": "25/04/2019",
+        "poster": "http://albertbdp.somee.com/imagenes/e82dfebe-e58b-486b-88e2-5b85f8512b90.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 17,
+            "name": "Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 18,
+            "name": "Captain America",
+            "actor": {
+              "id": 8,
+              "name": "Chris Evans",
+              "description": "Chris Evans es un actor estadounidense reconocido por interpretar a Captain America en el Universo Cinematográfico de Marvel. Su presencia en pantalla y su compromiso con el personaje lo convirtieron en el líder emblemático de los Vengadores, dejando una huella duradera en el género de superhéroes.",
+              "birthDate": "13/06/1981",
+              "foto": "http://albertbdp.somee.com/imagenes/2240861f-148d-4e7b-87f7-0085e094f0aa.jpg"
+            }
+          },
+          {
+            "id": 19,
+            "name": "Thor",
+            "actor": {
+              "id": 9,
+              "name": "Chris Hemsworth",
+              "description": "Chris Hemsworth es un actor australiano famoso por su interpretación del dios del trueno, Thor, en el Universo Cinematográfico de Marvel. Su carisma y su impresionante físico le permitieron capturar la esencia del personaje y ganarse el corazón de los fans en todo el mundo.",
+              "birthDate": "11/08/1983",
+              "foto": "http://albertbdp.somee.com/imagenes/dc9200fa-68f3-4e16-9adf-3327b5230e05.jpg"
+            }
+          },
+          {
+            "id": 20,
+            "name": "Black Widow",
+            "actor": {
+              "id": 10,
+              "name": "Scarlett Johansson",
+              "description": "Scarlett Johansson es una actriz estadounidense conocida por su papel como Black Widow en el Universo Cinematográfico de Marvel. Con su combinación de elegancia, valentía y habilidades de combate, Johansson ha dejado una impresión duradera como una de las heroínas más queridas y poderosas del cine de superhéroes.",
+              "birthDate": "22/11/1984",
+              "foto": "http://albertbdp.somee.com/imagenes/4052c5fa-4a96-445a-85f2-c7220c713b22.jpg"
+            }
+          },
+          {
+            "id": 21,
+            "name": "Hulk",
+            "actor": {
+              "id": 11,
+              "name": "Mark Ruffalo",
+              "description": "Mark Ruffalo es un actor estadounidense reconocido por su papel como Hulk en el Universo Cinematográfico de Marvel. Su actuación aporta profundidad emocional al personaje, equilibrando la fuerza descomunal de Hulk con la humanidad de Bruce Banner, lo que lo convierte en una pieza clave del equipo de los Vengadores.",
+              "birthDate": "22/11/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/4c1010f0-2155-46a7-87c3-ce1d8dc433b7.jpg"
+            }
+          },
+          {
+            "id": 22,
+            "name": "Hawkeye",
+            "actor": {
+              "id": 12,
+              "name": "Jeremy Renner",
+              "description": "Jeremy Renner es un actor estadounidense conocido por interpretar a Hawkeye en el Universo Cinematográfico de Marvel. Renner ha sabido capturar la destreza y la precisión del arquero experto, aportando una presencia única al equipo de los Vengadores.",
+              "birthDate": "07/01/1971",
+              "foto": "http://albertbdp.somee.com/imagenes/e1901b1f-6707-45c0-8011-d39ef1681e4a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Iron Man",
+        "releaseDate": "02/05/2008",
+        "poster": "http://albertbdp.somee.com/imagenes/80b6b48a-43c8-4dc7-b09a-5199bbe64de0.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 29,
+            "name": "Tony Stark / Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 30,
+            "name": "Pepper Potts",
+            "actor": {
+              "id": 13,
+              "name": "Gwyneth Paltrow",
+              "description": "Gwyneth Paltrow es una aclamada actriz que interpreta a Pepper Potts en la saga de Iron Man. Nacida el 27 de junio de 1972, su talento y elegancia han dado vida a este personaje importante en la vida de Tony Stark.",
+              "birthDate": "27/06/1972",
+              "foto": "http://albertbdp.somee.com/imagenes/69b22aaf-b1ae-46bf-bffc-936e67a3951a.jpg"
+            }
+          },
+          {
+            "id": 31,
+            "name": "James Rhodes / War Machine",
+            "actor": {
+              "id": 14,
+              "name": "Don Cheadle",
+              "description": "Don Cheadle es un versátil actor que encarna a James Rhodes / War Machine en las películas de Iron Man. Nacido el 12 de septiembre de 1964, su actuación aporta fuerza y lealtad a este aliado valiente de Tony Stark.",
+              "birthDate": "12/09/1964",
+              "foto": "http://albertbdp.somee.com/imagenes/65b000ae-ce54-47c4-9bd9-f4424d91c47a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Sherlock Holmes",
+        "releaseDate": "25/12/2009",
+        "poster": "http://albertbdp.somee.com/imagenes/420ed222-7ddd-4498-9d76-d26ae5f9e413.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 32,
+            "name": "Sherlock Holmes",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Horrible Bosses",
+        "releaseDate": "08/07/2011",
+        "poster": "http://albertbdp.somee.com/imagenes/95eff137-8bcb-428e-90f8-d2fe356b27bf.jpg",
+        "gendre": {
+          "id": 2,
+          "name": "Comedia",
+          "description": "Te partirás de risa"
+        },
+        "characters": [
+          {
+            "id": 34,
+            "name": "Nick Hendricks",
+            "actor": {
+              "id": 5,
+              "name": "Jason Bateman",
+              "description": "Jason Kent Bateman es un actor y director estadounidense ganador de un Globo de Oro, un Premio Emmy, y dos Premios del Sindicato de Actores. Después de haber actuado en varias series de comedia durante la década de 1980, Bateman adquirió fama por su trabajo como Michael Bluth en la serie Arrested Development.",
+              "birthDate": "14/01/1969",
+              "foto": "http://albertbdp.somee.com/imagenes/6cad8f6c-e955-4c78-83c6-aa5ec0aae649.jpg"
+            }
+          },
+          {
+            "id": 35,
+            "name": "Dale Arbus",
+            "actor": {
+              "id": 15,
+              "name": "Charlie Day",
+              "description": "Charlie Day es un actor cómico conocido por su interpretación de Dale Arbus en esta comedia. Nacido el 9 de febrero de 1976, su humor peculiar y su energía dinámica contribuyen al éxito de la película.",
+              "birthDate": "09/02/1976",
+              "foto": "http://albertbdp.somee.com/imagenes/2512fab7-a75b-41b9-ae4a-d9d3e467a02b.jpg"
+            }
+          },
+          {
+            "id": 36,
+            "name": "Kurt Buckman",
+            "actor": {
+              "id": 16,
+              "name": "Jason Sudeikis",
+              "description": "Jason Sudeikis es un actor versátil conocido por su papel como Kurt Buckman en esta comedia. Nacido el 18 de septiembre de 1975, su estilo de comedia ingeniosa y su carisma agregan diversión a la historia.",
+              "birthDate": "18/09/1975",
+              "foto": "http://albertbdp.somee.com/imagenes/4507d38c-e8b0-4e00-80e2-3c3ac870a803.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "The Conjuring: The Devil Made Me Do It",
+        "releaseDate": "04/06/2021",
+        "poster": "http://albertbdp.somee.com/imagenes/277c652e-5b43-4050-b12f-4095b4c98ad7.jpg",
+        "gendre": {
+          "id": 1,
+          "name": "Terror",
+          "description": "Dan mucho miedo"
+        },
+        "characters": [
+          {
+            "id": 37,
+            "name": "Ed Warren",
+            "actor": {
+              "id": 1,
+              "name": "Patrick Wilson",
+              "description": "Patrick Joseph Wilson es un actor y cantante estadounidense.​ Desde 1996 ha participado en varios musicales y ha protagonizado varias obras teatrales en el circuito de Broadway.​​Es dos veces nominado al premio Tony por sus papeles en The Full Monty y Oklahoma!.",
+              "birthDate": "03/10/73",
+              "foto": "http://albertbdp.somee.com/imagenes/c3a38c43-30d8-45a3-8daa-3f379031ac10.jpg"
+            }
+          },
+          {
+            "id": 38,
+            "name": "Lorraine Warren",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "The Conjuring 2",
+        "releaseDate": "10/06/2016",
+        "poster": "http://albertbdp.somee.com/imagenes/01524d86-ec40-400c-a554-1b53736c7fdc.jpg",
+        "gendre": {
+          "id": 1,
+          "name": "Terror",
+          "description": "Dan mucho miedo"
+        },
+        "characters": [
+          {
+            "id": 39,
+            "name": "Ed Warren",
+            "actor": {
+              "id": 1,
+              "name": "Patrick Wilson",
+              "description": "Patrick Joseph Wilson es un actor y cantante estadounidense.​ Desde 1996 ha participado en varios musicales y ha protagonizado varias obras teatrales en el circuito de Broadway.​​Es dos veces nominado al premio Tony por sus papeles en The Full Monty y Oklahoma!.",
+              "birthDate": "03/10/73",
+              "foto": "http://albertbdp.somee.com/imagenes/c3a38c43-30d8-45a3-8daa-3f379031ac10.jpg"
+            }
+          },
+          {
+            "id": 40,
+            "name": "Lorraine Warren",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          }
+        ]
+      }
+    ],
+    "id": 2,
+    "name": "Cinesa Puigcerdà",
+    "address": "C/major 59, Puigcerdà"
+  },
+  {
+    "peliculas": [
+      {
+        "id": 1,
+        "name": "Expediente Warren, The conjuring",
+        "releaseDate": "05/05/2020",
+        "poster": "https://localhost:7066/imagenes/8f869596-f300-4524-9233-50dbc3ac5f48.jpg",
+        "gendre": {
+          "id": 1,
+          "name": "Terror",
+          "description": "Dan mucho miedo"
+        },
+        "characters": [
+          {
+            "id": 1,
+            "name": "Ed Warren",
+            "actor": {
+              "id": 1,
+              "name": "Patrick Wilson",
+              "description": "Patrick Joseph Wilson es un actor y cantante estadounidense.​ Desde 1996 ha participado en varios musicales y ha protagonizado varias obras teatrales en el circuito de Broadway.​​Es dos veces nominado al premio Tony por sus papeles en The Full Monty y Oklahoma!.",
+              "birthDate": "03/10/73",
+              "foto": "http://albertbdp.somee.com/imagenes/c3a38c43-30d8-45a3-8daa-3f379031ac10.jpg"
+            }
+          },
+          {
+            "id": 2,
+            "name": "Lorraine Warren",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          },
+          {
+            "id": 3,
+            "name": "Carolyn Perron",
+            "actor": {
+              "id": 3,
+              "name": "Lili Taylor",
+              "description": "Lili Anne Taylor es una actriz estadounidense que ha trabajado principalmente en películas independientes. Ha ganado un premio del Sindicato de Actores por su actuación en la serie Six Feet Under, y ha sido nominada en tres ocasiones al premio Primetime Emmy.",
+              "birthDate": "20/02/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/323ce051-a0b4-409e-9df1-177d9e42ccad.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Up in the Air",
+        "releaseDate": "04/12/2009",
+        "poster": "http://albertbdp.somee.com/imagenes/e7080105-18da-46c0-b9f1-40e245e7ac44.jpg",
+        "gendre": {
+          "id": 2,
+          "name": "Comedia",
+          "description": "Te partirás de risa"
+        },
+        "characters": [
+          {
+            "id": 7,
+            "name": "Ryan Bingham",
+            "actor": {
+              "id": 4,
+              "name": "George Clooney",
+              "description": "George Timothy Clooney es un actor, director, productor y guionista estadounidense. Ha sido galardonado con cuatro Globos de Oro, dos Óscar y un BAFTA. También es conocido por su activismo político, siendo Mensajero de la Paz de Naciones Unidas desde 2008, título al que renunció posteriormente.",
+              "birthDate": "06/05/61",
+              "foto": "http://albertbdp.somee.com/imagenes/aa0540fd-56bc-4a45-8fc5-7aac1523213e.jpg"
+            }
+          },
+          {
+            "id": 8,
+            "name": "Alex Goran",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          },
+          {
+            "id": 9,
+            "name": "Craig Gregory",
+            "actor": {
+              "id": 5,
+              "name": "Jason Bateman",
+              "description": "Jason Kent Bateman es un actor y director estadounidense ganador de un Globo de Oro, un Premio Emmy, y dos Premios del Sindicato de Actores. Después de haber actuado en varias series de comedia durante la década de 1980, Bateman adquirió fama por su trabajo como Michael Bluth en la serie Arrested Development.",
+              "birthDate": "14/01/1969",
+              "foto": "http://albertbdp.somee.com/imagenes/6cad8f6c-e955-4c78-83c6-aa5ec0aae649.jpg"
+            }
+          },
+          {
+            "id": 10,
+            "name": "Bob",
+            "actor": {
+              "id": 6,
+              "name": "J. K. Simmons",
+              "description": "Jonathan Kimble Simmons es un actor estadounidense ganador del Óscar, Globo de Oro, BAFTA, Premio del Sindicato de Actores, entre otros premios.",
+              "birthDate": "09/01/1968",
+              "foto": "http://albertbdp.somee.com/imagenes/4f6f48e0-2ecf-48da-ac0a-fb7ecb5cb441.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Vengadores: Endgame",
+        "releaseDate": "25/04/2019",
+        "poster": "http://albertbdp.somee.com/imagenes/e82dfebe-e58b-486b-88e2-5b85f8512b90.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 17,
+            "name": "Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 18,
+            "name": "Captain America",
+            "actor": {
+              "id": 8,
+              "name": "Chris Evans",
+              "description": "Chris Evans es un actor estadounidense reconocido por interpretar a Captain America en el Universo Cinematográfico de Marvel. Su presencia en pantalla y su compromiso con el personaje lo convirtieron en el líder emblemático de los Vengadores, dejando una huella duradera en el género de superhéroes.",
+              "birthDate": "13/06/1981",
+              "foto": "http://albertbdp.somee.com/imagenes/2240861f-148d-4e7b-87f7-0085e094f0aa.jpg"
+            }
+          },
+          {
+            "id": 19,
+            "name": "Thor",
+            "actor": {
+              "id": 9,
+              "name": "Chris Hemsworth",
+              "description": "Chris Hemsworth es un actor australiano famoso por su interpretación del dios del trueno, Thor, en el Universo Cinematográfico de Marvel. Su carisma y su impresionante físico le permitieron capturar la esencia del personaje y ganarse el corazón de los fans en todo el mundo.",
+              "birthDate": "11/08/1983",
+              "foto": "http://albertbdp.somee.com/imagenes/dc9200fa-68f3-4e16-9adf-3327b5230e05.jpg"
+            }
+          },
+          {
+            "id": 20,
+            "name": "Black Widow",
+            "actor": {
+              "id": 10,
+              "name": "Scarlett Johansson",
+              "description": "Scarlett Johansson es una actriz estadounidense conocida por su papel como Black Widow en el Universo Cinematográfico de Marvel. Con su combinación de elegancia, valentía y habilidades de combate, Johansson ha dejado una impresión duradera como una de las heroínas más queridas y poderosas del cine de superhéroes.",
+              "birthDate": "22/11/1984",
+              "foto": "http://albertbdp.somee.com/imagenes/4052c5fa-4a96-445a-85f2-c7220c713b22.jpg"
+            }
+          },
+          {
+            "id": 21,
+            "name": "Hulk",
+            "actor": {
+              "id": 11,
+              "name": "Mark Ruffalo",
+              "description": "Mark Ruffalo es un actor estadounidense reconocido por su papel como Hulk en el Universo Cinematográfico de Marvel. Su actuación aporta profundidad emocional al personaje, equilibrando la fuerza descomunal de Hulk con la humanidad de Bruce Banner, lo que lo convierte en una pieza clave del equipo de los Vengadores.",
+              "birthDate": "22/11/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/4c1010f0-2155-46a7-87c3-ce1d8dc433b7.jpg"
+            }
+          },
+          {
+            "id": 22,
+            "name": "Hawkeye",
+            "actor": {
+              "id": 12,
+              "name": "Jeremy Renner",
+              "description": "Jeremy Renner es un actor estadounidense conocido por interpretar a Hawkeye en el Universo Cinematográfico de Marvel. Renner ha sabido capturar la destreza y la precisión del arquero experto, aportando una presencia única al equipo de los Vengadores.",
+              "birthDate": "07/01/1971",
+              "foto": "http://albertbdp.somee.com/imagenes/e1901b1f-6707-45c0-8011-d39ef1681e4a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Iron Man",
+        "releaseDate": "02/05/2008",
+        "poster": "http://albertbdp.somee.com/imagenes/80b6b48a-43c8-4dc7-b09a-5199bbe64de0.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 29,
+            "name": "Tony Stark / Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 30,
+            "name": "Pepper Potts",
+            "actor": {
+              "id": 13,
+              "name": "Gwyneth Paltrow",
+              "description": "Gwyneth Paltrow es una aclamada actriz que interpreta a Pepper Potts en la saga de Iron Man. Nacida el 27 de junio de 1972, su talento y elegancia han dado vida a este personaje importante en la vida de Tony Stark.",
+              "birthDate": "27/06/1972",
+              "foto": "http://albertbdp.somee.com/imagenes/69b22aaf-b1ae-46bf-bffc-936e67a3951a.jpg"
+            }
+          },
+          {
+            "id": 31,
+            "name": "James Rhodes / War Machine",
+            "actor": {
+              "id": 14,
+              "name": "Don Cheadle",
+              "description": "Don Cheadle es un versátil actor que encarna a James Rhodes / War Machine en las películas de Iron Man. Nacido el 12 de septiembre de 1964, su actuación aporta fuerza y lealtad a este aliado valiente de Tony Stark.",
+              "birthDate": "12/09/1964",
+              "foto": "http://albertbdp.somee.com/imagenes/65b000ae-ce54-47c4-9bd9-f4424d91c47a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Sherlock Holmes",
+        "releaseDate": "25/12/2009",
+        "poster": "http://albertbdp.somee.com/imagenes/420ed222-7ddd-4498-9d76-d26ae5f9e413.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 32,
+            "name": "Sherlock Holmes",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Tropic Thunder",
+        "releaseDate": "13/08/2008",
+        "poster": "http://albertbdp.somee.com/imagenes/f370380a-99d3-4511-b231-9048dcf0d9c4.jpg",
+        "gendre": {
+          "id": 2,
+          "name": "Comedia",
+          "description": "Te partirás de risa"
+        },
+        "characters": [
+          {
+            "id": 33,
+            "name": "Kirk Lazarus",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "The Conjuring 2",
+        "releaseDate": "10/06/2016",
+        "poster": "http://albertbdp.somee.com/imagenes/01524d86-ec40-400c-a554-1b53736c7fdc.jpg",
+        "gendre": {
+          "id": 1,
+          "name": "Terror",
+          "description": "Dan mucho miedo"
+        },
+        "characters": [
+          {
+            "id": 39,
+            "name": "Ed Warren",
+            "actor": {
+              "id": 1,
+              "name": "Patrick Wilson",
+              "description": "Patrick Joseph Wilson es un actor y cantante estadounidense.​ Desde 1996 ha participado en varios musicales y ha protagonizado varias obras teatrales en el circuito de Broadway.​​Es dos veces nominado al premio Tony por sus papeles en The Full Monty y Oklahoma!.",
+              "birthDate": "03/10/73",
+              "foto": "http://albertbdp.somee.com/imagenes/c3a38c43-30d8-45a3-8daa-3f379031ac10.jpg"
+            }
+          },
+          {
+            "id": 40,
+            "name": "Lorraine Warren",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          }
+        ]
+      }
+    ],
+    "id": 3,
+    "name": "Cinesa Bellver",
+    "address": "C/principal 64, Bellver"
+  },
+  {
+    "peliculas": [
+      {
+        "id": 1,
+        "name": "Expediente Warren, The conjuring",
+        "releaseDate": "05/05/2020",
+        "poster": "https://localhost:7066/imagenes/8f869596-f300-4524-9233-50dbc3ac5f48.jpg",
+        "gendre": {
+          "id": 1,
+          "name": "Terror",
+          "description": "Dan mucho miedo"
+        },
+        "characters": [
+          {
+            "id": 1,
+            "name": "Ed Warren",
+            "actor": {
+              "id": 1,
+              "name": "Patrick Wilson",
+              "description": "Patrick Joseph Wilson es un actor y cantante estadounidense.​ Desde 1996 ha participado en varios musicales y ha protagonizado varias obras teatrales en el circuito de Broadway.​​Es dos veces nominado al premio Tony por sus papeles en The Full Monty y Oklahoma!.",
+              "birthDate": "03/10/73",
+              "foto": "http://albertbdp.somee.com/imagenes/c3a38c43-30d8-45a3-8daa-3f379031ac10.jpg"
+            }
+          },
+          {
+            "id": 2,
+            "name": "Lorraine Warren",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          },
+          {
+            "id": 3,
+            "name": "Carolyn Perron",
+            "actor": {
+              "id": 3,
+              "name": "Lili Taylor",
+              "description": "Lili Anne Taylor es una actriz estadounidense que ha trabajado principalmente en películas independientes. Ha ganado un premio del Sindicato de Actores por su actuación en la serie Six Feet Under, y ha sido nominada en tres ocasiones al premio Primetime Emmy.",
+              "birthDate": "20/02/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/323ce051-a0b4-409e-9df1-177d9e42ccad.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Vengadores",
+        "releaseDate": "25/04/2016",
+        "poster": "http://albertbdp.somee.com/imagenes/31cf4c88-fff4-4089-815e-0f8eaaa1ded8.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 23,
+            "name": "Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 24,
+            "name": "Captain America",
+            "actor": {
+              "id": 8,
+              "name": "Chris Evans",
+              "description": "Chris Evans es un actor estadounidense reconocido por interpretar a Captain America en el Universo Cinematográfico de Marvel. Su presencia en pantalla y su compromiso con el personaje lo convirtieron en el líder emblemático de los Vengadores, dejando una huella duradera en el género de superhéroes.",
+              "birthDate": "13/06/1981",
+              "foto": "http://albertbdp.somee.com/imagenes/2240861f-148d-4e7b-87f7-0085e094f0aa.jpg"
+            }
+          },
+          {
+            "id": 25,
+            "name": "Thor",
+            "actor": {
+              "id": 9,
+              "name": "Chris Hemsworth",
+              "description": "Chris Hemsworth es un actor australiano famoso por su interpretación del dios del trueno, Thor, en el Universo Cinematográfico de Marvel. Su carisma y su impresionante físico le permitieron capturar la esencia del personaje y ganarse el corazón de los fans en todo el mundo.",
+              "birthDate": "11/08/1983",
+              "foto": "http://albertbdp.somee.com/imagenes/dc9200fa-68f3-4e16-9adf-3327b5230e05.jpg"
+            }
+          },
+          {
+            "id": 26,
+            "name": "Black Widow",
+            "actor": {
+              "id": 10,
+              "name": "Scarlett Johansson",
+              "description": "Scarlett Johansson es una actriz estadounidense conocida por su papel como Black Widow en el Universo Cinematográfico de Marvel. Con su combinación de elegancia, valentía y habilidades de combate, Johansson ha dejado una impresión duradera como una de las heroínas más queridas y poderosas del cine de superhéroes.",
+              "birthDate": "22/11/1984",
+              "foto": "http://albertbdp.somee.com/imagenes/4052c5fa-4a96-445a-85f2-c7220c713b22.jpg"
+            }
+          },
+          {
+            "id": 27,
+            "name": "Hulk",
+            "actor": {
+              "id": 11,
+              "name": "Mark Ruffalo",
+              "description": "Mark Ruffalo es un actor estadounidense reconocido por su papel como Hulk en el Universo Cinematográfico de Marvel. Su actuación aporta profundidad emocional al personaje, equilibrando la fuerza descomunal de Hulk con la humanidad de Bruce Banner, lo que lo convierte en una pieza clave del equipo de los Vengadores.",
+              "birthDate": "22/11/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/4c1010f0-2155-46a7-87c3-ce1d8dc433b7.jpg"
+            }
+          },
+          {
+            "id": 28,
+            "name": "Hawkeye",
+            "actor": {
+              "id": 12,
+              "name": "Jeremy Renner",
+              "description": "Jeremy Renner es un actor estadounidense conocido por interpretar a Hawkeye en el Universo Cinematográfico de Marvel. Renner ha sabido capturar la destreza y la precisión del arquero experto, aportando una presencia única al equipo de los Vengadores.",
+              "birthDate": "07/01/1971",
+              "foto": "http://albertbdp.somee.com/imagenes/e1901b1f-6707-45c0-8011-d39ef1681e4a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Tropic Thunder",
+        "releaseDate": "13/08/2008",
+        "poster": "http://albertbdp.somee.com/imagenes/f370380a-99d3-4511-b231-9048dcf0d9c4.jpg",
+        "gendre": {
+          "id": 2,
+          "name": "Comedia",
+          "description": "Te partirás de risa"
+        },
+        "characters": [
+          {
+            "id": 33,
+            "name": "Kirk Lazarus",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Horrible Bosses",
+        "releaseDate": "08/07/2011",
+        "poster": "http://albertbdp.somee.com/imagenes/95eff137-8bcb-428e-90f8-d2fe356b27bf.jpg",
+        "gendre": {
+          "id": 2,
+          "name": "Comedia",
+          "description": "Te partirás de risa"
+        },
+        "characters": [
+          {
+            "id": 34,
+            "name": "Nick Hendricks",
+            "actor": {
+              "id": 5,
+              "name": "Jason Bateman",
+              "description": "Jason Kent Bateman es un actor y director estadounidense ganador de un Globo de Oro, un Premio Emmy, y dos Premios del Sindicato de Actores. Después de haber actuado en varias series de comedia durante la década de 1980, Bateman adquirió fama por su trabajo como Michael Bluth en la serie Arrested Development.",
+              "birthDate": "14/01/1969",
+              "foto": "http://albertbdp.somee.com/imagenes/6cad8f6c-e955-4c78-83c6-aa5ec0aae649.jpg"
+            }
+          },
+          {
+            "id": 35,
+            "name": "Dale Arbus",
+            "actor": {
+              "id": 15,
+              "name": "Charlie Day",
+              "description": "Charlie Day es un actor cómico conocido por su interpretación de Dale Arbus en esta comedia. Nacido el 9 de febrero de 1976, su humor peculiar y su energía dinámica contribuyen al éxito de la película.",
+              "birthDate": "09/02/1976",
+              "foto": "http://albertbdp.somee.com/imagenes/2512fab7-a75b-41b9-ae4a-d9d3e467a02b.jpg"
+            }
+          },
+          {
+            "id": 36,
+            "name": "Kurt Buckman",
+            "actor": {
+              "id": 16,
+              "name": "Jason Sudeikis",
+              "description": "Jason Sudeikis es un actor versátil conocido por su papel como Kurt Buckman en esta comedia. Nacido el 18 de septiembre de 1975, su estilo de comedia ingeniosa y su carisma agregan diversión a la historia.",
+              "birthDate": "18/09/1975",
+              "foto": "http://albertbdp.somee.com/imagenes/4507d38c-e8b0-4e00-80e2-3c3ac870a803.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "The Conjuring: The Devil Made Me Do It",
+        "releaseDate": "04/06/2021",
+        "poster": "http://albertbdp.somee.com/imagenes/277c652e-5b43-4050-b12f-4095b4c98ad7.jpg",
+        "gendre": {
+          "id": 1,
+          "name": "Terror",
+          "description": "Dan mucho miedo"
+        },
+        "characters": [
+          {
+            "id": 37,
+            "name": "Ed Warren",
+            "actor": {
+              "id": 1,
+              "name": "Patrick Wilson",
+              "description": "Patrick Joseph Wilson es un actor y cantante estadounidense.​ Desde 1996 ha participado en varios musicales y ha protagonizado varias obras teatrales en el circuito de Broadway.​​Es dos veces nominado al premio Tony por sus papeles en The Full Monty y Oklahoma!.",
+              "birthDate": "03/10/73",
+              "foto": "http://albertbdp.somee.com/imagenes/c3a38c43-30d8-45a3-8daa-3f379031ac10.jpg"
+            }
+          },
+          {
+            "id": 38,
+            "name": "Lorraine Warren",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "The Conjuring 2",
+        "releaseDate": "10/06/2016",
+        "poster": "http://albertbdp.somee.com/imagenes/01524d86-ec40-400c-a554-1b53736c7fdc.jpg",
+        "gendre": {
+          "id": 1,
+          "name": "Terror",
+          "description": "Dan mucho miedo"
+        },
+        "characters": [
+          {
+            "id": 39,
+            "name": "Ed Warren",
+            "actor": {
+              "id": 1,
+              "name": "Patrick Wilson",
+              "description": "Patrick Joseph Wilson es un actor y cantante estadounidense.​ Desde 1996 ha participado en varios musicales y ha protagonizado varias obras teatrales en el circuito de Broadway.​​Es dos veces nominado al premio Tony por sus papeles en The Full Monty y Oklahoma!.",
+              "birthDate": "03/10/73",
+              "foto": "http://albertbdp.somee.com/imagenes/c3a38c43-30d8-45a3-8daa-3f379031ac10.jpg"
+            }
+          },
+          {
+            "id": 40,
+            "name": "Lorraine Warren",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          }
+        ]
+      }
+    ],
+    "id": 4,
+    "name": "Cinesa Ger",
+    "address": "C/Sant pere 6, Ger"
+  },
+  {
+    "peliculas": [
+      {
+        "id": 3,
+        "name": "Up in the Air",
+        "releaseDate": "04/12/2009",
+        "poster": "http://albertbdp.somee.com/imagenes/e7080105-18da-46c0-b9f1-40e245e7ac44.jpg",
+        "gendre": {
+          "id": 2,
+          "name": "Comedia",
+          "description": "Te partirás de risa"
+        },
+        "characters": [
+          {
+            "id": 7,
+            "name": "Ryan Bingham",
+            "actor": {
+              "id": 4,
+              "name": "George Clooney",
+              "description": "George Timothy Clooney es un actor, director, productor y guionista estadounidense. Ha sido galardonado con cuatro Globos de Oro, dos Óscar y un BAFTA. También es conocido por su activismo político, siendo Mensajero de la Paz de Naciones Unidas desde 2008, título al que renunció posteriormente.",
+              "birthDate": "06/05/61",
+              "foto": "http://albertbdp.somee.com/imagenes/aa0540fd-56bc-4a45-8fc5-7aac1523213e.jpg"
+            }
+          },
+          {
+            "id": 8,
+            "name": "Alex Goran",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          },
+          {
+            "id": 9,
+            "name": "Craig Gregory",
+            "actor": {
+              "id": 5,
+              "name": "Jason Bateman",
+              "description": "Jason Kent Bateman es un actor y director estadounidense ganador de un Globo de Oro, un Premio Emmy, y dos Premios del Sindicato de Actores. Después de haber actuado en varias series de comedia durante la década de 1980, Bateman adquirió fama por su trabajo como Michael Bluth en la serie Arrested Development.",
+              "birthDate": "14/01/1969",
+              "foto": "http://albertbdp.somee.com/imagenes/6cad8f6c-e955-4c78-83c6-aa5ec0aae649.jpg"
+            }
+          },
+          {
+            "id": 10,
+            "name": "Bob",
+            "actor": {
+              "id": 6,
+              "name": "J. K. Simmons",
+              "description": "Jonathan Kimble Simmons es un actor estadounidense ganador del Óscar, Globo de Oro, BAFTA, Premio del Sindicato de Actores, entre otros premios.",
+              "birthDate": "09/01/1968",
+              "foto": "http://albertbdp.somee.com/imagenes/4f6f48e0-2ecf-48da-ac0a-fb7ecb5cb441.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Vengadores: Infinity War",
+        "releaseDate": "25/04/2018",
+        "poster": "http://albertbdp.somee.com/imagenes/ac71fc81-5a27-4720-a63d-b0f5d5d95868.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 11,
+            "name": "Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 12,
+            "name": "Captain America",
+            "actor": {
+              "id": 8,
+              "name": "Chris Evans",
+              "description": "Chris Evans es un actor estadounidense reconocido por interpretar a Captain America en el Universo Cinematográfico de Marvel. Su presencia en pantalla y su compromiso con el personaje lo convirtieron en el líder emblemático de los Vengadores, dejando una huella duradera en el género de superhéroes.",
+              "birthDate": "13/06/1981",
+              "foto": "http://albertbdp.somee.com/imagenes/2240861f-148d-4e7b-87f7-0085e094f0aa.jpg"
+            }
+          },
+          {
+            "id": 13,
+            "name": "Thor",
+            "actor": {
+              "id": 9,
+              "name": "Chris Hemsworth",
+              "description": "Chris Hemsworth es un actor australiano famoso por su interpretación del dios del trueno, Thor, en el Universo Cinematográfico de Marvel. Su carisma y su impresionante físico le permitieron capturar la esencia del personaje y ganarse el corazón de los fans en todo el mundo.",
+              "birthDate": "11/08/1983",
+              "foto": "http://albertbdp.somee.com/imagenes/dc9200fa-68f3-4e16-9adf-3327b5230e05.jpg"
+            }
+          },
+          {
+            "id": 14,
+            "name": "Black Widow",
+            "actor": {
+              "id": 10,
+              "name": "Scarlett Johansson",
+              "description": "Scarlett Johansson es una actriz estadounidense conocida por su papel como Black Widow en el Universo Cinematográfico de Marvel. Con su combinación de elegancia, valentía y habilidades de combate, Johansson ha dejado una impresión duradera como una de las heroínas más queridas y poderosas del cine de superhéroes.",
+              "birthDate": "22/11/1984",
+              "foto": "http://albertbdp.somee.com/imagenes/4052c5fa-4a96-445a-85f2-c7220c713b22.jpg"
+            }
+          },
+          {
+            "id": 15,
+            "name": "Hulk",
+            "actor": {
+              "id": 11,
+              "name": "Mark Ruffalo",
+              "description": "Mark Ruffalo es un actor estadounidense reconocido por su papel como Hulk en el Universo Cinematográfico de Marvel. Su actuación aporta profundidad emocional al personaje, equilibrando la fuerza descomunal de Hulk con la humanidad de Bruce Banner, lo que lo convierte en una pieza clave del equipo de los Vengadores.",
+              "birthDate": "22/11/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/4c1010f0-2155-46a7-87c3-ce1d8dc433b7.jpg"
+            }
+          },
+          {
+            "id": 16,
+            "name": "Hawkeye",
+            "actor": {
+              "id": 12,
+              "name": "Jeremy Renner",
+              "description": "Jeremy Renner es un actor estadounidense conocido por interpretar a Hawkeye en el Universo Cinematográfico de Marvel. Renner ha sabido capturar la destreza y la precisión del arquero experto, aportando una presencia única al equipo de los Vengadores.",
+              "birthDate": "07/01/1971",
+              "foto": "http://albertbdp.somee.com/imagenes/e1901b1f-6707-45c0-8011-d39ef1681e4a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Vengadores: Endgame",
+        "releaseDate": "25/04/2019",
+        "poster": "http://albertbdp.somee.com/imagenes/e82dfebe-e58b-486b-88e2-5b85f8512b90.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 17,
+            "name": "Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 18,
+            "name": "Captain America",
+            "actor": {
+              "id": 8,
+              "name": "Chris Evans",
+              "description": "Chris Evans es un actor estadounidense reconocido por interpretar a Captain America en el Universo Cinematográfico de Marvel. Su presencia en pantalla y su compromiso con el personaje lo convirtieron en el líder emblemático de los Vengadores, dejando una huella duradera en el género de superhéroes.",
+              "birthDate": "13/06/1981",
+              "foto": "http://albertbdp.somee.com/imagenes/2240861f-148d-4e7b-87f7-0085e094f0aa.jpg"
+            }
+          },
+          {
+            "id": 19,
+            "name": "Thor",
+            "actor": {
+              "id": 9,
+              "name": "Chris Hemsworth",
+              "description": "Chris Hemsworth es un actor australiano famoso por su interpretación del dios del trueno, Thor, en el Universo Cinematográfico de Marvel. Su carisma y su impresionante físico le permitieron capturar la esencia del personaje y ganarse el corazón de los fans en todo el mundo.",
+              "birthDate": "11/08/1983",
+              "foto": "http://albertbdp.somee.com/imagenes/dc9200fa-68f3-4e16-9adf-3327b5230e05.jpg"
+            }
+          },
+          {
+            "id": 20,
+            "name": "Black Widow",
+            "actor": {
+              "id": 10,
+              "name": "Scarlett Johansson",
+              "description": "Scarlett Johansson es una actriz estadounidense conocida por su papel como Black Widow en el Universo Cinematográfico de Marvel. Con su combinación de elegancia, valentía y habilidades de combate, Johansson ha dejado una impresión duradera como una de las heroínas más queridas y poderosas del cine de superhéroes.",
+              "birthDate": "22/11/1984",
+              "foto": "http://albertbdp.somee.com/imagenes/4052c5fa-4a96-445a-85f2-c7220c713b22.jpg"
+            }
+          },
+          {
+            "id": 21,
+            "name": "Hulk",
+            "actor": {
+              "id": 11,
+              "name": "Mark Ruffalo",
+              "description": "Mark Ruffalo es un actor estadounidense reconocido por su papel como Hulk en el Universo Cinematográfico de Marvel. Su actuación aporta profundidad emocional al personaje, equilibrando la fuerza descomunal de Hulk con la humanidad de Bruce Banner, lo que lo convierte en una pieza clave del equipo de los Vengadores.",
+              "birthDate": "22/11/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/4c1010f0-2155-46a7-87c3-ce1d8dc433b7.jpg"
+            }
+          },
+          {
+            "id": 22,
+            "name": "Hawkeye",
+            "actor": {
+              "id": 12,
+              "name": "Jeremy Renner",
+              "description": "Jeremy Renner es un actor estadounidense conocido por interpretar a Hawkeye en el Universo Cinematográfico de Marvel. Renner ha sabido capturar la destreza y la precisión del arquero experto, aportando una presencia única al equipo de los Vengadores.",
+              "birthDate": "07/01/1971",
+              "foto": "http://albertbdp.somee.com/imagenes/e1901b1f-6707-45c0-8011-d39ef1681e4a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Vengadores",
+        "releaseDate": "25/04/2016",
+        "poster": "http://albertbdp.somee.com/imagenes/31cf4c88-fff4-4089-815e-0f8eaaa1ded8.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 23,
+            "name": "Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 24,
+            "name": "Captain America",
+            "actor": {
+              "id": 8,
+              "name": "Chris Evans",
+              "description": "Chris Evans es un actor estadounidense reconocido por interpretar a Captain America en el Universo Cinematográfico de Marvel. Su presencia en pantalla y su compromiso con el personaje lo convirtieron en el líder emblemático de los Vengadores, dejando una huella duradera en el género de superhéroes.",
+              "birthDate": "13/06/1981",
+              "foto": "http://albertbdp.somee.com/imagenes/2240861f-148d-4e7b-87f7-0085e094f0aa.jpg"
+            }
+          },
+          {
+            "id": 25,
+            "name": "Thor",
+            "actor": {
+              "id": 9,
+              "name": "Chris Hemsworth",
+              "description": "Chris Hemsworth es un actor australiano famoso por su interpretación del dios del trueno, Thor, en el Universo Cinematográfico de Marvel. Su carisma y su impresionante físico le permitieron capturar la esencia del personaje y ganarse el corazón de los fans en todo el mundo.",
+              "birthDate": "11/08/1983",
+              "foto": "http://albertbdp.somee.com/imagenes/dc9200fa-68f3-4e16-9adf-3327b5230e05.jpg"
+            }
+          },
+          {
+            "id": 26,
+            "name": "Black Widow",
+            "actor": {
+              "id": 10,
+              "name": "Scarlett Johansson",
+              "description": "Scarlett Johansson es una actriz estadounidense conocida por su papel como Black Widow en el Universo Cinematográfico de Marvel. Con su combinación de elegancia, valentía y habilidades de combate, Johansson ha dejado una impresión duradera como una de las heroínas más queridas y poderosas del cine de superhéroes.",
+              "birthDate": "22/11/1984",
+              "foto": "http://albertbdp.somee.com/imagenes/4052c5fa-4a96-445a-85f2-c7220c713b22.jpg"
+            }
+          },
+          {
+            "id": 27,
+            "name": "Hulk",
+            "actor": {
+              "id": 11,
+              "name": "Mark Ruffalo",
+              "description": "Mark Ruffalo es un actor estadounidense reconocido por su papel como Hulk en el Universo Cinematográfico de Marvel. Su actuación aporta profundidad emocional al personaje, equilibrando la fuerza descomunal de Hulk con la humanidad de Bruce Banner, lo que lo convierte en una pieza clave del equipo de los Vengadores.",
+              "birthDate": "22/11/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/4c1010f0-2155-46a7-87c3-ce1d8dc433b7.jpg"
+            }
+          },
+          {
+            "id": 28,
+            "name": "Hawkeye",
+            "actor": {
+              "id": 12,
+              "name": "Jeremy Renner",
+              "description": "Jeremy Renner es un actor estadounidense conocido por interpretar a Hawkeye en el Universo Cinematográfico de Marvel. Renner ha sabido capturar la destreza y la precisión del arquero experto, aportando una presencia única al equipo de los Vengadores.",
+              "birthDate": "07/01/1971",
+              "foto": "http://albertbdp.somee.com/imagenes/e1901b1f-6707-45c0-8011-d39ef1681e4a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Horrible Bosses",
+        "releaseDate": "08/07/2011",
+        "poster": "http://albertbdp.somee.com/imagenes/95eff137-8bcb-428e-90f8-d2fe356b27bf.jpg",
+        "gendre": {
+          "id": 2,
+          "name": "Comedia",
+          "description": "Te partirás de risa"
+        },
+        "characters": [
+          {
+            "id": 34,
+            "name": "Nick Hendricks",
+            "actor": {
+              "id": 5,
+              "name": "Jason Bateman",
+              "description": "Jason Kent Bateman es un actor y director estadounidense ganador de un Globo de Oro, un Premio Emmy, y dos Premios del Sindicato de Actores. Después de haber actuado en varias series de comedia durante la década de 1980, Bateman adquirió fama por su trabajo como Michael Bluth en la serie Arrested Development.",
+              "birthDate": "14/01/1969",
+              "foto": "http://albertbdp.somee.com/imagenes/6cad8f6c-e955-4c78-83c6-aa5ec0aae649.jpg"
+            }
+          },
+          {
+            "id": 35,
+            "name": "Dale Arbus",
+            "actor": {
+              "id": 15,
+              "name": "Charlie Day",
+              "description": "Charlie Day es un actor cómico conocido por su interpretación de Dale Arbus en esta comedia. Nacido el 9 de febrero de 1976, su humor peculiar y su energía dinámica contribuyen al éxito de la película.",
+              "birthDate": "09/02/1976",
+              "foto": "http://albertbdp.somee.com/imagenes/2512fab7-a75b-41b9-ae4a-d9d3e467a02b.jpg"
+            }
+          },
+          {
+            "id": 36,
+            "name": "Kurt Buckman",
+            "actor": {
+              "id": 16,
+              "name": "Jason Sudeikis",
+              "description": "Jason Sudeikis es un actor versátil conocido por su papel como Kurt Buckman en esta comedia. Nacido el 18 de septiembre de 1975, su estilo de comedia ingeniosa y su carisma agregan diversión a la historia.",
+              "birthDate": "18/09/1975",
+              "foto": "http://albertbdp.somee.com/imagenes/4507d38c-e8b0-4e00-80e2-3c3ac870a803.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "The Conjuring: The Devil Made Me Do It",
+        "releaseDate": "04/06/2021",
+        "poster": "http://albertbdp.somee.com/imagenes/277c652e-5b43-4050-b12f-4095b4c98ad7.jpg",
+        "gendre": {
+          "id": 1,
+          "name": "Terror",
+          "description": "Dan mucho miedo"
+        },
+        "characters": [
+          {
+            "id": 37,
+            "name": "Ed Warren",
+            "actor": {
+              "id": 1,
+              "name": "Patrick Wilson",
+              "description": "Patrick Joseph Wilson es un actor y cantante estadounidense.​ Desde 1996 ha participado en varios musicales y ha protagonizado varias obras teatrales en el circuito de Broadway.​​Es dos veces nominado al premio Tony por sus papeles en The Full Monty y Oklahoma!.",
+              "birthDate": "03/10/73",
+              "foto": "http://albertbdp.somee.com/imagenes/c3a38c43-30d8-45a3-8daa-3f379031ac10.jpg"
+            }
+          },
+          {
+            "id": 38,
+            "name": "Lorraine Warren",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "The Conjuring 2",
+        "releaseDate": "10/06/2016",
+        "poster": "http://albertbdp.somee.com/imagenes/01524d86-ec40-400c-a554-1b53736c7fdc.jpg",
+        "gendre": {
+          "id": 1,
+          "name": "Terror",
+          "description": "Dan mucho miedo"
+        },
+        "characters": [
+          {
+            "id": 39,
+            "name": "Ed Warren",
+            "actor": {
+              "id": 1,
+              "name": "Patrick Wilson",
+              "description": "Patrick Joseph Wilson es un actor y cantante estadounidense.​ Desde 1996 ha participado en varios musicales y ha protagonizado varias obras teatrales en el circuito de Broadway.​​Es dos veces nominado al premio Tony por sus papeles en The Full Monty y Oklahoma!.",
+              "birthDate": "03/10/73",
+              "foto": "http://albertbdp.somee.com/imagenes/c3a38c43-30d8-45a3-8daa-3f379031ac10.jpg"
+            }
+          },
+          {
+            "id": 40,
+            "name": "Lorraine Warren",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          }
+        ]
+      }
+    ],
+    "id": 5,
+    "name": "Cinesa Manresa",
+    "address": "C/Santa Maria 73, Manresa"
+  },
+  {
+    "peliculas": [
+      {
+        "id": 1,
+        "name": "Expediente Warren, The conjuring",
+        "releaseDate": "05/05/2020",
+        "poster": "https://localhost:7066/imagenes/8f869596-f300-4524-9233-50dbc3ac5f48.jpg",
+        "gendre": {
+          "id": 1,
+          "name": "Terror",
+          "description": "Dan mucho miedo"
+        },
+        "characters": [
+          {
+            "id": 1,
+            "name": "Ed Warren",
+            "actor": {
+              "id": 1,
+              "name": "Patrick Wilson",
+              "description": "Patrick Joseph Wilson es un actor y cantante estadounidense.​ Desde 1996 ha participado en varios musicales y ha protagonizado varias obras teatrales en el circuito de Broadway.​​Es dos veces nominado al premio Tony por sus papeles en The Full Monty y Oklahoma!.",
+              "birthDate": "03/10/73",
+              "foto": "http://albertbdp.somee.com/imagenes/c3a38c43-30d8-45a3-8daa-3f379031ac10.jpg"
+            }
+          },
+          {
+            "id": 2,
+            "name": "Lorraine Warren",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          },
+          {
+            "id": 3,
+            "name": "Carolyn Perron",
+            "actor": {
+              "id": 3,
+              "name": "Lili Taylor",
+              "description": "Lili Anne Taylor es una actriz estadounidense que ha trabajado principalmente en películas independientes. Ha ganado un premio del Sindicato de Actores por su actuación en la serie Six Feet Under, y ha sido nominada en tres ocasiones al premio Primetime Emmy.",
+              "birthDate": "20/02/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/323ce051-a0b4-409e-9df1-177d9e42ccad.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Vengadores: Infinity War",
+        "releaseDate": "25/04/2018",
+        "poster": "http://albertbdp.somee.com/imagenes/ac71fc81-5a27-4720-a63d-b0f5d5d95868.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 11,
+            "name": "Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 12,
+            "name": "Captain America",
+            "actor": {
+              "id": 8,
+              "name": "Chris Evans",
+              "description": "Chris Evans es un actor estadounidense reconocido por interpretar a Captain America en el Universo Cinematográfico de Marvel. Su presencia en pantalla y su compromiso con el personaje lo convirtieron en el líder emblemático de los Vengadores, dejando una huella duradera en el género de superhéroes.",
+              "birthDate": "13/06/1981",
+              "foto": "http://albertbdp.somee.com/imagenes/2240861f-148d-4e7b-87f7-0085e094f0aa.jpg"
+            }
+          },
+          {
+            "id": 13,
+            "name": "Thor",
+            "actor": {
+              "id": 9,
+              "name": "Chris Hemsworth",
+              "description": "Chris Hemsworth es un actor australiano famoso por su interpretación del dios del trueno, Thor, en el Universo Cinematográfico de Marvel. Su carisma y su impresionante físico le permitieron capturar la esencia del personaje y ganarse el corazón de los fans en todo el mundo.",
+              "birthDate": "11/08/1983",
+              "foto": "http://albertbdp.somee.com/imagenes/dc9200fa-68f3-4e16-9adf-3327b5230e05.jpg"
+            }
+          },
+          {
+            "id": 14,
+            "name": "Black Widow",
+            "actor": {
+              "id": 10,
+              "name": "Scarlett Johansson",
+              "description": "Scarlett Johansson es una actriz estadounidense conocida por su papel como Black Widow en el Universo Cinematográfico de Marvel. Con su combinación de elegancia, valentía y habilidades de combate, Johansson ha dejado una impresión duradera como una de las heroínas más queridas y poderosas del cine de superhéroes.",
+              "birthDate": "22/11/1984",
+              "foto": "http://albertbdp.somee.com/imagenes/4052c5fa-4a96-445a-85f2-c7220c713b22.jpg"
+            }
+          },
+          {
+            "id": 15,
+            "name": "Hulk",
+            "actor": {
+              "id": 11,
+              "name": "Mark Ruffalo",
+              "description": "Mark Ruffalo es un actor estadounidense reconocido por su papel como Hulk en el Universo Cinematográfico de Marvel. Su actuación aporta profundidad emocional al personaje, equilibrando la fuerza descomunal de Hulk con la humanidad de Bruce Banner, lo que lo convierte en una pieza clave del equipo de los Vengadores.",
+              "birthDate": "22/11/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/4c1010f0-2155-46a7-87c3-ce1d8dc433b7.jpg"
+            }
+          },
+          {
+            "id": 16,
+            "name": "Hawkeye",
+            "actor": {
+              "id": 12,
+              "name": "Jeremy Renner",
+              "description": "Jeremy Renner es un actor estadounidense conocido por interpretar a Hawkeye en el Universo Cinematográfico de Marvel. Renner ha sabido capturar la destreza y la precisión del arquero experto, aportando una presencia única al equipo de los Vengadores.",
+              "birthDate": "07/01/1971",
+              "foto": "http://albertbdp.somee.com/imagenes/e1901b1f-6707-45c0-8011-d39ef1681e4a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Vengadores: Endgame",
+        "releaseDate": "25/04/2019",
+        "poster": "http://albertbdp.somee.com/imagenes/e82dfebe-e58b-486b-88e2-5b85f8512b90.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 17,
+            "name": "Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 18,
+            "name": "Captain America",
+            "actor": {
+              "id": 8,
+              "name": "Chris Evans",
+              "description": "Chris Evans es un actor estadounidense reconocido por interpretar a Captain America en el Universo Cinematográfico de Marvel. Su presencia en pantalla y su compromiso con el personaje lo convirtieron en el líder emblemático de los Vengadores, dejando una huella duradera en el género de superhéroes.",
+              "birthDate": "13/06/1981",
+              "foto": "http://albertbdp.somee.com/imagenes/2240861f-148d-4e7b-87f7-0085e094f0aa.jpg"
+            }
+          },
+          {
+            "id": 19,
+            "name": "Thor",
+            "actor": {
+              "id": 9,
+              "name": "Chris Hemsworth",
+              "description": "Chris Hemsworth es un actor australiano famoso por su interpretación del dios del trueno, Thor, en el Universo Cinematográfico de Marvel. Su carisma y su impresionante físico le permitieron capturar la esencia del personaje y ganarse el corazón de los fans en todo el mundo.",
+              "birthDate": "11/08/1983",
+              "foto": "http://albertbdp.somee.com/imagenes/dc9200fa-68f3-4e16-9adf-3327b5230e05.jpg"
+            }
+          },
+          {
+            "id": 20,
+            "name": "Black Widow",
+            "actor": {
+              "id": 10,
+              "name": "Scarlett Johansson",
+              "description": "Scarlett Johansson es una actriz estadounidense conocida por su papel como Black Widow en el Universo Cinematográfico de Marvel. Con su combinación de elegancia, valentía y habilidades de combate, Johansson ha dejado una impresión duradera como una de las heroínas más queridas y poderosas del cine de superhéroes.",
+              "birthDate": "22/11/1984",
+              "foto": "http://albertbdp.somee.com/imagenes/4052c5fa-4a96-445a-85f2-c7220c713b22.jpg"
+            }
+          },
+          {
+            "id": 21,
+            "name": "Hulk",
+            "actor": {
+              "id": 11,
+              "name": "Mark Ruffalo",
+              "description": "Mark Ruffalo es un actor estadounidense reconocido por su papel como Hulk en el Universo Cinematográfico de Marvel. Su actuación aporta profundidad emocional al personaje, equilibrando la fuerza descomunal de Hulk con la humanidad de Bruce Banner, lo que lo convierte en una pieza clave del equipo de los Vengadores.",
+              "birthDate": "22/11/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/4c1010f0-2155-46a7-87c3-ce1d8dc433b7.jpg"
+            }
+          },
+          {
+            "id": 22,
+            "name": "Hawkeye",
+            "actor": {
+              "id": 12,
+              "name": "Jeremy Renner",
+              "description": "Jeremy Renner es un actor estadounidense conocido por interpretar a Hawkeye en el Universo Cinematográfico de Marvel. Renner ha sabido capturar la destreza y la precisión del arquero experto, aportando una presencia única al equipo de los Vengadores.",
+              "birthDate": "07/01/1971",
+              "foto": "http://albertbdp.somee.com/imagenes/e1901b1f-6707-45c0-8011-d39ef1681e4a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Vengadores",
+        "releaseDate": "25/04/2016",
+        "poster": "http://albertbdp.somee.com/imagenes/31cf4c88-fff4-4089-815e-0f8eaaa1ded8.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 23,
+            "name": "Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 24,
+            "name": "Captain America",
+            "actor": {
+              "id": 8,
+              "name": "Chris Evans",
+              "description": "Chris Evans es un actor estadounidense reconocido por interpretar a Captain America en el Universo Cinematográfico de Marvel. Su presencia en pantalla y su compromiso con el personaje lo convirtieron en el líder emblemático de los Vengadores, dejando una huella duradera en el género de superhéroes.",
+              "birthDate": "13/06/1981",
+              "foto": "http://albertbdp.somee.com/imagenes/2240861f-148d-4e7b-87f7-0085e094f0aa.jpg"
+            }
+          },
+          {
+            "id": 25,
+            "name": "Thor",
+            "actor": {
+              "id": 9,
+              "name": "Chris Hemsworth",
+              "description": "Chris Hemsworth es un actor australiano famoso por su interpretación del dios del trueno, Thor, en el Universo Cinematográfico de Marvel. Su carisma y su impresionante físico le permitieron capturar la esencia del personaje y ganarse el corazón de los fans en todo el mundo.",
+              "birthDate": "11/08/1983",
+              "foto": "http://albertbdp.somee.com/imagenes/dc9200fa-68f3-4e16-9adf-3327b5230e05.jpg"
+            }
+          },
+          {
+            "id": 26,
+            "name": "Black Widow",
+            "actor": {
+              "id": 10,
+              "name": "Scarlett Johansson",
+              "description": "Scarlett Johansson es una actriz estadounidense conocida por su papel como Black Widow en el Universo Cinematográfico de Marvel. Con su combinación de elegancia, valentía y habilidades de combate, Johansson ha dejado una impresión duradera como una de las heroínas más queridas y poderosas del cine de superhéroes.",
+              "birthDate": "22/11/1984",
+              "foto": "http://albertbdp.somee.com/imagenes/4052c5fa-4a96-445a-85f2-c7220c713b22.jpg"
+            }
+          },
+          {
+            "id": 27,
+            "name": "Hulk",
+            "actor": {
+              "id": 11,
+              "name": "Mark Ruffalo",
+              "description": "Mark Ruffalo es un actor estadounidense reconocido por su papel como Hulk en el Universo Cinematográfico de Marvel. Su actuación aporta profundidad emocional al personaje, equilibrando la fuerza descomunal de Hulk con la humanidad de Bruce Banner, lo que lo convierte en una pieza clave del equipo de los Vengadores.",
+              "birthDate": "22/11/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/4c1010f0-2155-46a7-87c3-ce1d8dc433b7.jpg"
+            }
+          },
+          {
+            "id": 28,
+            "name": "Hawkeye",
+            "actor": {
+              "id": 12,
+              "name": "Jeremy Renner",
+              "description": "Jeremy Renner es un actor estadounidense conocido por interpretar a Hawkeye en el Universo Cinematográfico de Marvel. Renner ha sabido capturar la destreza y la precisión del arquero experto, aportando una presencia única al equipo de los Vengadores.",
+              "birthDate": "07/01/1971",
+              "foto": "http://albertbdp.somee.com/imagenes/e1901b1f-6707-45c0-8011-d39ef1681e4a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Tropic Thunder",
+        "releaseDate": "13/08/2008",
+        "poster": "http://albertbdp.somee.com/imagenes/f370380a-99d3-4511-b231-9048dcf0d9c4.jpg",
+        "gendre": {
+          "id": 2,
+          "name": "Comedia",
+          "description": "Te partirás de risa"
+        },
+        "characters": [
+          {
+            "id": 33,
+            "name": "Kirk Lazarus",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "The Conjuring 2",
+        "releaseDate": "10/06/2016",
+        "poster": "http://albertbdp.somee.com/imagenes/01524d86-ec40-400c-a554-1b53736c7fdc.jpg",
+        "gendre": {
+          "id": 1,
+          "name": "Terror",
+          "description": "Dan mucho miedo"
+        },
+        "characters": [
+          {
+            "id": 39,
+            "name": "Ed Warren",
+            "actor": {
+              "id": 1,
+              "name": "Patrick Wilson",
+              "description": "Patrick Joseph Wilson es un actor y cantante estadounidense.​ Desde 1996 ha participado en varios musicales y ha protagonizado varias obras teatrales en el circuito de Broadway.​​Es dos veces nominado al premio Tony por sus papeles en The Full Monty y Oklahoma!.",
+              "birthDate": "03/10/73",
+              "foto": "http://albertbdp.somee.com/imagenes/c3a38c43-30d8-45a3-8daa-3f379031ac10.jpg"
+            }
+          },
+          {
+            "id": 40,
+            "name": "Lorraine Warren",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          }
+        ]
+      }
+    ],
+    "id": 6,
+    "name": "Cinesa Lleida",
+    "address": "Pl. del Centre, Lleida"
+  },
+  {
+    "peliculas": [
+      {
+        "id": 1,
+        "name": "Expediente Warren, The conjuring",
+        "releaseDate": "05/05/2020",
+        "poster": "https://localhost:7066/imagenes/8f869596-f300-4524-9233-50dbc3ac5f48.jpg",
+        "gendre": {
+          "id": 1,
+          "name": "Terror",
+          "description": "Dan mucho miedo"
+        },
+        "characters": [
+          {
+            "id": 1,
+            "name": "Ed Warren",
+            "actor": {
+              "id": 1,
+              "name": "Patrick Wilson",
+              "description": "Patrick Joseph Wilson es un actor y cantante estadounidense.​ Desde 1996 ha participado en varios musicales y ha protagonizado varias obras teatrales en el circuito de Broadway.​​Es dos veces nominado al premio Tony por sus papeles en The Full Monty y Oklahoma!.",
+              "birthDate": "03/10/73",
+              "foto": "http://albertbdp.somee.com/imagenes/c3a38c43-30d8-45a3-8daa-3f379031ac10.jpg"
+            }
+          },
+          {
+            "id": 2,
+            "name": "Lorraine Warren",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          },
+          {
+            "id": 3,
+            "name": "Carolyn Perron",
+            "actor": {
+              "id": 3,
+              "name": "Lili Taylor",
+              "description": "Lili Anne Taylor es una actriz estadounidense que ha trabajado principalmente en películas independientes. Ha ganado un premio del Sindicato de Actores por su actuación en la serie Six Feet Under, y ha sido nominada en tres ocasiones al premio Primetime Emmy.",
+              "birthDate": "20/02/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/323ce051-a0b4-409e-9df1-177d9e42ccad.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Up in the Air",
+        "releaseDate": "04/12/2009",
+        "poster": "http://albertbdp.somee.com/imagenes/e7080105-18da-46c0-b9f1-40e245e7ac44.jpg",
+        "gendre": {
+          "id": 2,
+          "name": "Comedia",
+          "description": "Te partirás de risa"
+        },
+        "characters": [
+          {
+            "id": 7,
+            "name": "Ryan Bingham",
+            "actor": {
+              "id": 4,
+              "name": "George Clooney",
+              "description": "George Timothy Clooney es un actor, director, productor y guionista estadounidense. Ha sido galardonado con cuatro Globos de Oro, dos Óscar y un BAFTA. También es conocido por su activismo político, siendo Mensajero de la Paz de Naciones Unidas desde 2008, título al que renunció posteriormente.",
+              "birthDate": "06/05/61",
+              "foto": "http://albertbdp.somee.com/imagenes/aa0540fd-56bc-4a45-8fc5-7aac1523213e.jpg"
+            }
+          },
+          {
+            "id": 8,
+            "name": "Alex Goran",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          },
+          {
+            "id": 9,
+            "name": "Craig Gregory",
+            "actor": {
+              "id": 5,
+              "name": "Jason Bateman",
+              "description": "Jason Kent Bateman es un actor y director estadounidense ganador de un Globo de Oro, un Premio Emmy, y dos Premios del Sindicato de Actores. Después de haber actuado en varias series de comedia durante la década de 1980, Bateman adquirió fama por su trabajo como Michael Bluth en la serie Arrested Development.",
+              "birthDate": "14/01/1969",
+              "foto": "http://albertbdp.somee.com/imagenes/6cad8f6c-e955-4c78-83c6-aa5ec0aae649.jpg"
+            }
+          },
+          {
+            "id": 10,
+            "name": "Bob",
+            "actor": {
+              "id": 6,
+              "name": "J. K. Simmons",
+              "description": "Jonathan Kimble Simmons es un actor estadounidense ganador del Óscar, Globo de Oro, BAFTA, Premio del Sindicato de Actores, entre otros premios.",
+              "birthDate": "09/01/1968",
+              "foto": "http://albertbdp.somee.com/imagenes/4f6f48e0-2ecf-48da-ac0a-fb7ecb5cb441.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Vengadores: Infinity War",
+        "releaseDate": "25/04/2018",
+        "poster": "http://albertbdp.somee.com/imagenes/ac71fc81-5a27-4720-a63d-b0f5d5d95868.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 11,
+            "name": "Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 12,
+            "name": "Captain America",
+            "actor": {
+              "id": 8,
+              "name": "Chris Evans",
+              "description": "Chris Evans es un actor estadounidense reconocido por interpretar a Captain America en el Universo Cinematográfico de Marvel. Su presencia en pantalla y su compromiso con el personaje lo convirtieron en el líder emblemático de los Vengadores, dejando una huella duradera en el género de superhéroes.",
+              "birthDate": "13/06/1981",
+              "foto": "http://albertbdp.somee.com/imagenes/2240861f-148d-4e7b-87f7-0085e094f0aa.jpg"
+            }
+          },
+          {
+            "id": 13,
+            "name": "Thor",
+            "actor": {
+              "id": 9,
+              "name": "Chris Hemsworth",
+              "description": "Chris Hemsworth es un actor australiano famoso por su interpretación del dios del trueno, Thor, en el Universo Cinematográfico de Marvel. Su carisma y su impresionante físico le permitieron capturar la esencia del personaje y ganarse el corazón de los fans en todo el mundo.",
+              "birthDate": "11/08/1983",
+              "foto": "http://albertbdp.somee.com/imagenes/dc9200fa-68f3-4e16-9adf-3327b5230e05.jpg"
+            }
+          },
+          {
+            "id": 14,
+            "name": "Black Widow",
+            "actor": {
+              "id": 10,
+              "name": "Scarlett Johansson",
+              "description": "Scarlett Johansson es una actriz estadounidense conocida por su papel como Black Widow en el Universo Cinematográfico de Marvel. Con su combinación de elegancia, valentía y habilidades de combate, Johansson ha dejado una impresión duradera como una de las heroínas más queridas y poderosas del cine de superhéroes.",
+              "birthDate": "22/11/1984",
+              "foto": "http://albertbdp.somee.com/imagenes/4052c5fa-4a96-445a-85f2-c7220c713b22.jpg"
+            }
+          },
+          {
+            "id": 15,
+            "name": "Hulk",
+            "actor": {
+              "id": 11,
+              "name": "Mark Ruffalo",
+              "description": "Mark Ruffalo es un actor estadounidense reconocido por su papel como Hulk en el Universo Cinematográfico de Marvel. Su actuación aporta profundidad emocional al personaje, equilibrando la fuerza descomunal de Hulk con la humanidad de Bruce Banner, lo que lo convierte en una pieza clave del equipo de los Vengadores.",
+              "birthDate": "22/11/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/4c1010f0-2155-46a7-87c3-ce1d8dc433b7.jpg"
+            }
+          },
+          {
+            "id": 16,
+            "name": "Hawkeye",
+            "actor": {
+              "id": 12,
+              "name": "Jeremy Renner",
+              "description": "Jeremy Renner es un actor estadounidense conocido por interpretar a Hawkeye en el Universo Cinematográfico de Marvel. Renner ha sabido capturar la destreza y la precisión del arquero experto, aportando una presencia única al equipo de los Vengadores.",
+              "birthDate": "07/01/1971",
+              "foto": "http://albertbdp.somee.com/imagenes/e1901b1f-6707-45c0-8011-d39ef1681e4a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Iron Man",
+        "releaseDate": "02/05/2008",
+        "poster": "http://albertbdp.somee.com/imagenes/80b6b48a-43c8-4dc7-b09a-5199bbe64de0.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 29,
+            "name": "Tony Stark / Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 30,
+            "name": "Pepper Potts",
+            "actor": {
+              "id": 13,
+              "name": "Gwyneth Paltrow",
+              "description": "Gwyneth Paltrow es una aclamada actriz que interpreta a Pepper Potts en la saga de Iron Man. Nacida el 27 de junio de 1972, su talento y elegancia han dado vida a este personaje importante en la vida de Tony Stark.",
+              "birthDate": "27/06/1972",
+              "foto": "http://albertbdp.somee.com/imagenes/69b22aaf-b1ae-46bf-bffc-936e67a3951a.jpg"
+            }
+          },
+          {
+            "id": 31,
+            "name": "James Rhodes / War Machine",
+            "actor": {
+              "id": 14,
+              "name": "Don Cheadle",
+              "description": "Don Cheadle es un versátil actor que encarna a James Rhodes / War Machine en las películas de Iron Man. Nacido el 12 de septiembre de 1964, su actuación aporta fuerza y lealtad a este aliado valiente de Tony Stark.",
+              "birthDate": "12/09/1964",
+              "foto": "http://albertbdp.somee.com/imagenes/65b000ae-ce54-47c4-9bd9-f4424d91c47a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Sherlock Holmes",
+        "releaseDate": "25/12/2009",
+        "poster": "http://albertbdp.somee.com/imagenes/420ed222-7ddd-4498-9d76-d26ae5f9e413.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 32,
+            "name": "Sherlock Holmes",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Tropic Thunder",
+        "releaseDate": "13/08/2008",
+        "poster": "http://albertbdp.somee.com/imagenes/f370380a-99d3-4511-b231-9048dcf0d9c4.jpg",
+        "gendre": {
+          "id": 2,
+          "name": "Comedia",
+          "description": "Te partirás de risa"
+        },
+        "characters": [
+          {
+            "id": 33,
+            "name": "Kirk Lazarus",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Horrible Bosses",
+        "releaseDate": "08/07/2011",
+        "poster": "http://albertbdp.somee.com/imagenes/95eff137-8bcb-428e-90f8-d2fe356b27bf.jpg",
+        "gendre": {
+          "id": 2,
+          "name": "Comedia",
+          "description": "Te partirás de risa"
+        },
+        "characters": [
+          {
+            "id": 34,
+            "name": "Nick Hendricks",
+            "actor": {
+              "id": 5,
+              "name": "Jason Bateman",
+              "description": "Jason Kent Bateman es un actor y director estadounidense ganador de un Globo de Oro, un Premio Emmy, y dos Premios del Sindicato de Actores. Después de haber actuado en varias series de comedia durante la década de 1980, Bateman adquirió fama por su trabajo como Michael Bluth en la serie Arrested Development.",
+              "birthDate": "14/01/1969",
+              "foto": "http://albertbdp.somee.com/imagenes/6cad8f6c-e955-4c78-83c6-aa5ec0aae649.jpg"
+            }
+          },
+          {
+            "id": 35,
+            "name": "Dale Arbus",
+            "actor": {
+              "id": 15,
+              "name": "Charlie Day",
+              "description": "Charlie Day es un actor cómico conocido por su interpretación de Dale Arbus en esta comedia. Nacido el 9 de febrero de 1976, su humor peculiar y su energía dinámica contribuyen al éxito de la película.",
+              "birthDate": "09/02/1976",
+              "foto": "http://albertbdp.somee.com/imagenes/2512fab7-a75b-41b9-ae4a-d9d3e467a02b.jpg"
+            }
+          },
+          {
+            "id": 36,
+            "name": "Kurt Buckman",
+            "actor": {
+              "id": 16,
+              "name": "Jason Sudeikis",
+              "description": "Jason Sudeikis es un actor versátil conocido por su papel como Kurt Buckman en esta comedia. Nacido el 18 de septiembre de 1975, su estilo de comedia ingeniosa y su carisma agregan diversión a la historia.",
+              "birthDate": "18/09/1975",
+              "foto": "http://albertbdp.somee.com/imagenes/4507d38c-e8b0-4e00-80e2-3c3ac870a803.jpg"
+            }
+          }
+        ]
+      }
+    ],
+    "id": 7,
+    "name": "Cinesa Girona",
+    "address": "C/ del Pi,65 Girona"
+  },
+  {
+    "peliculas": [
+      {
+        "id": 3,
+        "name": "Up in the Air",
+        "releaseDate": "04/12/2009",
+        "poster": "http://albertbdp.somee.com/imagenes/e7080105-18da-46c0-b9f1-40e245e7ac44.jpg",
+        "gendre": {
+          "id": 2,
+          "name": "Comedia",
+          "description": "Te partirás de risa"
+        },
+        "characters": [
+          {
+            "id": 7,
+            "name": "Ryan Bingham",
+            "actor": {
+              "id": 4,
+              "name": "George Clooney",
+              "description": "George Timothy Clooney es un actor, director, productor y guionista estadounidense. Ha sido galardonado con cuatro Globos de Oro, dos Óscar y un BAFTA. También es conocido por su activismo político, siendo Mensajero de la Paz de Naciones Unidas desde 2008, título al que renunció posteriormente.",
+              "birthDate": "06/05/61",
+              "foto": "http://albertbdp.somee.com/imagenes/aa0540fd-56bc-4a45-8fc5-7aac1523213e.jpg"
+            }
+          },
+          {
+            "id": 8,
+            "name": "Alex Goran",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          },
+          {
+            "id": 9,
+            "name": "Craig Gregory",
+            "actor": {
+              "id": 5,
+              "name": "Jason Bateman",
+              "description": "Jason Kent Bateman es un actor y director estadounidense ganador de un Globo de Oro, un Premio Emmy, y dos Premios del Sindicato de Actores. Después de haber actuado en varias series de comedia durante la década de 1980, Bateman adquirió fama por su trabajo como Michael Bluth en la serie Arrested Development.",
+              "birthDate": "14/01/1969",
+              "foto": "http://albertbdp.somee.com/imagenes/6cad8f6c-e955-4c78-83c6-aa5ec0aae649.jpg"
+            }
+          },
+          {
+            "id": 10,
+            "name": "Bob",
+            "actor": {
+              "id": 6,
+              "name": "J. K. Simmons",
+              "description": "Jonathan Kimble Simmons es un actor estadounidense ganador del Óscar, Globo de Oro, BAFTA, Premio del Sindicato de Actores, entre otros premios.",
+              "birthDate": "09/01/1968",
+              "foto": "http://albertbdp.somee.com/imagenes/4f6f48e0-2ecf-48da-ac0a-fb7ecb5cb441.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Vengadores: Infinity War",
+        "releaseDate": "25/04/2018",
+        "poster": "http://albertbdp.somee.com/imagenes/ac71fc81-5a27-4720-a63d-b0f5d5d95868.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 11,
+            "name": "Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 12,
+            "name": "Captain America",
+            "actor": {
+              "id": 8,
+              "name": "Chris Evans",
+              "description": "Chris Evans es un actor estadounidense reconocido por interpretar a Captain America en el Universo Cinematográfico de Marvel. Su presencia en pantalla y su compromiso con el personaje lo convirtieron en el líder emblemático de los Vengadores, dejando una huella duradera en el género de superhéroes.",
+              "birthDate": "13/06/1981",
+              "foto": "http://albertbdp.somee.com/imagenes/2240861f-148d-4e7b-87f7-0085e094f0aa.jpg"
+            }
+          },
+          {
+            "id": 13,
+            "name": "Thor",
+            "actor": {
+              "id": 9,
+              "name": "Chris Hemsworth",
+              "description": "Chris Hemsworth es un actor australiano famoso por su interpretación del dios del trueno, Thor, en el Universo Cinematográfico de Marvel. Su carisma y su impresionante físico le permitieron capturar la esencia del personaje y ganarse el corazón de los fans en todo el mundo.",
+              "birthDate": "11/08/1983",
+              "foto": "http://albertbdp.somee.com/imagenes/dc9200fa-68f3-4e16-9adf-3327b5230e05.jpg"
+            }
+          },
+          {
+            "id": 14,
+            "name": "Black Widow",
+            "actor": {
+              "id": 10,
+              "name": "Scarlett Johansson",
+              "description": "Scarlett Johansson es una actriz estadounidense conocida por su papel como Black Widow en el Universo Cinematográfico de Marvel. Con su combinación de elegancia, valentía y habilidades de combate, Johansson ha dejado una impresión duradera como una de las heroínas más queridas y poderosas del cine de superhéroes.",
+              "birthDate": "22/11/1984",
+              "foto": "http://albertbdp.somee.com/imagenes/4052c5fa-4a96-445a-85f2-c7220c713b22.jpg"
+            }
+          },
+          {
+            "id": 15,
+            "name": "Hulk",
+            "actor": {
+              "id": 11,
+              "name": "Mark Ruffalo",
+              "description": "Mark Ruffalo es un actor estadounidense reconocido por su papel como Hulk en el Universo Cinematográfico de Marvel. Su actuación aporta profundidad emocional al personaje, equilibrando la fuerza descomunal de Hulk con la humanidad de Bruce Banner, lo que lo convierte en una pieza clave del equipo de los Vengadores.",
+              "birthDate": "22/11/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/4c1010f0-2155-46a7-87c3-ce1d8dc433b7.jpg"
+            }
+          },
+          {
+            "id": 16,
+            "name": "Hawkeye",
+            "actor": {
+              "id": 12,
+              "name": "Jeremy Renner",
+              "description": "Jeremy Renner es un actor estadounidense conocido por interpretar a Hawkeye en el Universo Cinematográfico de Marvel. Renner ha sabido capturar la destreza y la precisión del arquero experto, aportando una presencia única al equipo de los Vengadores.",
+              "birthDate": "07/01/1971",
+              "foto": "http://albertbdp.somee.com/imagenes/e1901b1f-6707-45c0-8011-d39ef1681e4a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Vengadores",
+        "releaseDate": "25/04/2016",
+        "poster": "http://albertbdp.somee.com/imagenes/31cf4c88-fff4-4089-815e-0f8eaaa1ded8.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 23,
+            "name": "Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 24,
+            "name": "Captain America",
+            "actor": {
+              "id": 8,
+              "name": "Chris Evans",
+              "description": "Chris Evans es un actor estadounidense reconocido por interpretar a Captain America en el Universo Cinematográfico de Marvel. Su presencia en pantalla y su compromiso con el personaje lo convirtieron en el líder emblemático de los Vengadores, dejando una huella duradera en el género de superhéroes.",
+              "birthDate": "13/06/1981",
+              "foto": "http://albertbdp.somee.com/imagenes/2240861f-148d-4e7b-87f7-0085e094f0aa.jpg"
+            }
+          },
+          {
+            "id": 25,
+            "name": "Thor",
+            "actor": {
+              "id": 9,
+              "name": "Chris Hemsworth",
+              "description": "Chris Hemsworth es un actor australiano famoso por su interpretación del dios del trueno, Thor, en el Universo Cinematográfico de Marvel. Su carisma y su impresionante físico le permitieron capturar la esencia del personaje y ganarse el corazón de los fans en todo el mundo.",
+              "birthDate": "11/08/1983",
+              "foto": "http://albertbdp.somee.com/imagenes/dc9200fa-68f3-4e16-9adf-3327b5230e05.jpg"
+            }
+          },
+          {
+            "id": 26,
+            "name": "Black Widow",
+            "actor": {
+              "id": 10,
+              "name": "Scarlett Johansson",
+              "description": "Scarlett Johansson es una actriz estadounidense conocida por su papel como Black Widow en el Universo Cinematográfico de Marvel. Con su combinación de elegancia, valentía y habilidades de combate, Johansson ha dejado una impresión duradera como una de las heroínas más queridas y poderosas del cine de superhéroes.",
+              "birthDate": "22/11/1984",
+              "foto": "http://albertbdp.somee.com/imagenes/4052c5fa-4a96-445a-85f2-c7220c713b22.jpg"
+            }
+          },
+          {
+            "id": 27,
+            "name": "Hulk",
+            "actor": {
+              "id": 11,
+              "name": "Mark Ruffalo",
+              "description": "Mark Ruffalo es un actor estadounidense reconocido por su papel como Hulk en el Universo Cinematográfico de Marvel. Su actuación aporta profundidad emocional al personaje, equilibrando la fuerza descomunal de Hulk con la humanidad de Bruce Banner, lo que lo convierte en una pieza clave del equipo de los Vengadores.",
+              "birthDate": "22/11/1967",
+              "foto": "http://albertbdp.somee.com/imagenes/4c1010f0-2155-46a7-87c3-ce1d8dc433b7.jpg"
+            }
+          },
+          {
+            "id": 28,
+            "name": "Hawkeye",
+            "actor": {
+              "id": 12,
+              "name": "Jeremy Renner",
+              "description": "Jeremy Renner es un actor estadounidense conocido por interpretar a Hawkeye en el Universo Cinematográfico de Marvel. Renner ha sabido capturar la destreza y la precisión del arquero experto, aportando una presencia única al equipo de los Vengadores.",
+              "birthDate": "07/01/1971",
+              "foto": "http://albertbdp.somee.com/imagenes/e1901b1f-6707-45c0-8011-d39ef1681e4a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Iron Man",
+        "releaseDate": "02/05/2008",
+        "poster": "http://albertbdp.somee.com/imagenes/80b6b48a-43c8-4dc7-b09a-5199bbe64de0.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 29,
+            "name": "Tony Stark / Iron Man",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          },
+          {
+            "id": 30,
+            "name": "Pepper Potts",
+            "actor": {
+              "id": 13,
+              "name": "Gwyneth Paltrow",
+              "description": "Gwyneth Paltrow es una aclamada actriz que interpreta a Pepper Potts en la saga de Iron Man. Nacida el 27 de junio de 1972, su talento y elegancia han dado vida a este personaje importante en la vida de Tony Stark.",
+              "birthDate": "27/06/1972",
+              "foto": "http://albertbdp.somee.com/imagenes/69b22aaf-b1ae-46bf-bffc-936e67a3951a.jpg"
+            }
+          },
+          {
+            "id": 31,
+            "name": "James Rhodes / War Machine",
+            "actor": {
+              "id": 14,
+              "name": "Don Cheadle",
+              "description": "Don Cheadle es un versátil actor que encarna a James Rhodes / War Machine en las películas de Iron Man. Nacido el 12 de septiembre de 1964, su actuación aporta fuerza y lealtad a este aliado valiente de Tony Stark.",
+              "birthDate": "12/09/1964",
+              "foto": "http://albertbdp.somee.com/imagenes/65b000ae-ce54-47c4-9bd9-f4424d91c47a.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "The Conjuring: The Devil Made Me Do It",
+        "releaseDate": "04/06/2021",
+        "poster": "http://albertbdp.somee.com/imagenes/277c652e-5b43-4050-b12f-4095b4c98ad7.jpg",
+        "gendre": {
+          "id": 1,
+          "name": "Terror",
+          "description": "Dan mucho miedo"
+        },
+        "characters": [
+          {
+            "id": 37,
+            "name": "Ed Warren",
+            "actor": {
+              "id": 1,
+              "name": "Patrick Wilson",
+              "description": "Patrick Joseph Wilson es un actor y cantante estadounidense.​ Desde 1996 ha participado en varios musicales y ha protagonizado varias obras teatrales en el circuito de Broadway.​​Es dos veces nominado al premio Tony por sus papeles en The Full Monty y Oklahoma!.",
+              "birthDate": "03/10/73",
+              "foto": "http://albertbdp.somee.com/imagenes/c3a38c43-30d8-45a3-8daa-3f379031ac10.jpg"
+            }
+          },
+          {
+            "id": 38,
+            "name": "Lorraine Warren",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          }
+        ]
+      }
+    ],
+    "id": 8,
+    "name": "Cinesa Alp",
+    "address": "C/ de la molina,6 Alp"
+  },
+  {
+    "peliculas": [
+      {
+        "id": 8,
+        "name": "Sherlock Holmes",
+        "releaseDate": "25/12/2009",
+        "poster": "http://albertbdp.somee.com/imagenes/420ed222-7ddd-4498-9d76-d26ae5f9e413.jpg",
+        "gendre": {
+          "id": 5,
+          "name": "Acción",
+          "description": "El llamado cine de acción es un género cinematográfico donde prima la espectacularidad de las imágenes por medio de efectos especiales de estilo clásico. La denominación es más un convencionalismo popular, que un género cinematográfico puro acuñado por críticos, estudiosos o cineastas."
+        },
+        "characters": [
+          {
+            "id": 32,
+            "name": "Sherlock Holmes",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Tropic Thunder",
+        "releaseDate": "13/08/2008",
+        "poster": "http://albertbdp.somee.com/imagenes/f370380a-99d3-4511-b231-9048dcf0d9c4.jpg",
+        "gendre": {
+          "id": 2,
+          "name": "Comedia",
+          "description": "Te partirás de risa"
+        },
+        "characters": [
+          {
+            "id": 33,
+            "name": "Kirk Lazarus",
+            "actor": {
+              "id": 7,
+              "name": "Robert Downey Jr.",
+              "description": "Robert Downey Jr. es un actor estadounidense conocido por su papel como Iron Man en el Universo Cinematográfico de Marvel. Es reconocido por su carisma y su capacidad para mezclar el humor con la acción, convirtiéndose en uno de los actores más queridos del cine de superhéroes.",
+              "birthDate": "04/04/1965",
+              "foto": "http://albertbdp.somee.com/imagenes/38ec204c-3f7c-4a7c-a078-c124c4fea1c9.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Horrible Bosses",
+        "releaseDate": "08/07/2011",
+        "poster": "http://albertbdp.somee.com/imagenes/95eff137-8bcb-428e-90f8-d2fe356b27bf.jpg",
+        "gendre": {
+          "id": 2,
+          "name": "Comedia",
+          "description": "Te partirás de risa"
+        },
+        "characters": [
+          {
+            "id": 34,
+            "name": "Nick Hendricks",
+            "actor": {
+              "id": 5,
+              "name": "Jason Bateman",
+              "description": "Jason Kent Bateman es un actor y director estadounidense ganador de un Globo de Oro, un Premio Emmy, y dos Premios del Sindicato de Actores. Después de haber actuado en varias series de comedia durante la década de 1980, Bateman adquirió fama por su trabajo como Michael Bluth en la serie Arrested Development.",
+              "birthDate": "14/01/1969",
+              "foto": "http://albertbdp.somee.com/imagenes/6cad8f6c-e955-4c78-83c6-aa5ec0aae649.jpg"
+            }
+          },
+          {
+            "id": 35,
+            "name": "Dale Arbus",
+            "actor": {
+              "id": 15,
+              "name": "Charlie Day",
+              "description": "Charlie Day es un actor cómico conocido por su interpretación de Dale Arbus en esta comedia. Nacido el 9 de febrero de 1976, su humor peculiar y su energía dinámica contribuyen al éxito de la película.",
+              "birthDate": "09/02/1976",
+              "foto": "http://albertbdp.somee.com/imagenes/2512fab7-a75b-41b9-ae4a-d9d3e467a02b.jpg"
+            }
+          },
+          {
+            "id": 36,
+            "name": "Kurt Buckman",
+            "actor": {
+              "id": 16,
+              "name": "Jason Sudeikis",
+              "description": "Jason Sudeikis es un actor versátil conocido por su papel como Kurt Buckman en esta comedia. Nacido el 18 de septiembre de 1975, su estilo de comedia ingeniosa y su carisma agregan diversión a la historia.",
+              "birthDate": "18/09/1975",
+              "foto": "http://albertbdp.somee.com/imagenes/4507d38c-e8b0-4e00-80e2-3c3ac870a803.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "The Conjuring: The Devil Made Me Do It",
+        "releaseDate": "04/06/2021",
+        "poster": "http://albertbdp.somee.com/imagenes/277c652e-5b43-4050-b12f-4095b4c98ad7.jpg",
+        "gendre": {
+          "id": 1,
+          "name": "Terror",
+          "description": "Dan mucho miedo"
+        },
+        "characters": [
+          {
+            "id": 37,
+            "name": "Ed Warren",
+            "actor": {
+              "id": 1,
+              "name": "Patrick Wilson",
+              "description": "Patrick Joseph Wilson es un actor y cantante estadounidense.​ Desde 1996 ha participado en varios musicales y ha protagonizado varias obras teatrales en el circuito de Broadway.​​Es dos veces nominado al premio Tony por sus papeles en The Full Monty y Oklahoma!.",
+              "birthDate": "03/10/73",
+              "foto": "http://albertbdp.somee.com/imagenes/c3a38c43-30d8-45a3-8daa-3f379031ac10.jpg"
+            }
+          },
+          {
+            "id": 38,
+            "name": "Lorraine Warren",
+            "actor": {
+              "id": 2,
+              "name": "Vera Farmiga",
+              "description": "Vera Ann Farmiga, conocida como Vera Farmiga, es una actriz, productora, directora y bailarina estadounidense. En 2009, recibió varias nominaciones por su actuación en la película Up in the Air; entre ellas, la nominación a un Óscar y un Globo de Oro",
+              "birthDate": "06/08/1973",
+              "foto": "http://albertbdp.somee.com/imagenes/846a5714-9295-438e-a685-57074337c032.jpg"
+            }
+          }
+        ]
+      }
+    ],
+    "id": 9,
+    "name": "Cinesa Llívia ",
+    "address": "C/ del troc ,17 Llívia"
+  }
+]

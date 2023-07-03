@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prova Tecnica BDP</string>
+    <string name="pelis">PELICULAS</string>
+    <string name="cinemes">CINEMES</string>
+    <string name="Cartellera">CARTELERA</string>
+    <string name="BDP">BDP</string>
+    <string name="reparto">Reparto</string>
+    <string name="cines">CINES</string>
+    <string name="filtrar_por_g_nero">Filtrar por género</string>
+</resources>
